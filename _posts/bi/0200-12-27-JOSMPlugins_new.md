@@ -36,23 +36,6 @@ Anda menginstal sebuah plugin baru, Anda harus me-restart JOSM.
 perubahan pada setting-an JOSM. Untungnya, plugin yang pertama kita
 aktifkan ini dibuat untuk me-restart JOSM, yaitu plugin “restart” !
 
-Restart
--------
-
-![]({{site.baseurl}}/images/bi_beg_ch3.1_image12.png)
-
-Plugin “Restart” berguna untuk me-restart JOSM.  Dengan mengaktifkan
-plugin ini, sebuah submenu akan tertambahkan dibawah menu “File” yang
-menginstruksikan pada JOSM untuk melakukan restart.  Hal ini dapat
-menghemat waktu Anda saat Anda melakukan perubahan setting-an pada JOSM
-dan mengharuskan Anda untuk sering  melakukan restart JOSM. Namun harap
-diperhatikan ! Plugin ini tidak akan aktif hingga Anda me-restart JOSM.
-Jadi, saat pertama kali Anda mengaktifkan plugin ini (plugin “Restart”)
-Anda harus melakukan restart JOSM secara manual. Setelah melakukan
-restart JOSM, selanjutnya Anda akan melihat submenu baru (yaitu submenu
-“Restart JOSM”) dibawah menu “File”. Anda cukup melakukan hal ini
-(me-restart JOSM secara manual untuk mengaktifkan plugin “restart”) satu
-kali saja.
 
 ![]({{site.baseurl}}/images/bi_beg_ch3.1_image04.png)
 

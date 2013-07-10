@@ -31,8 +31,6 @@ reiniciar JOSM. Ya debes de estar cansado de tener que reiniciar JOSM cada vez q
 hecho para reiniciar JOSM en tu lugar!
 
 Complementos recomendados:
-- [Restart]({{site.baseurl}}/es/beginner/josm-plugins/#restart) (añade un
-botón de «reinicio»).
 - [Mirrored Download]({{site.baseurl}}/es/beginner/josm-plugins/#mirrored-download) (te permite descargar más datos de OSM).
 - [Direct Upload]({{site.baseurl}}/es/beginner/josm-plugins/#direct-upload) 
 (te permite subir rastros GPS).
@@ -47,19 +45,6 @@ en otros capítulos.
 - Buildings\_tool
 - Utilsplugin2
 
-
-Restart
--------
-
-![restart]({{site.baseurl}}/images/plugins_html_57cb1b84_es.png)
-
-__Restart__ (reiniciar) hace justo lo que dice. Añade un elemento en 
-el menú Archivo que le dice a JOSM que se reinicie. Esto ahorra tiempo
-cuando estas cambiando opciones a menudo y necesitas reiniciar el programa
-para que los cambios tengan efecto. Pero ¡sabes qué!, el complemento
-no se activará hasta que reinicies, así que  primero necesitas reiniciar
-JOSM manualmente. Una vez hecho esto, verás la entrada nueva en el menú
-Archivo.
 
 ![]({{site.baseurl}}/images/plugins_html_m6d2d20a9_es.png)
 

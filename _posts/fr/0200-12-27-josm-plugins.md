@@ -30,7 +30,6 @@ Heureusement, nous allons commencer par installer un greffon qui relance JOSM po
 
 Greffons recommandés :
 
-- [Restart]({{site.baseurl}}/en/beginner/josm-plugins/#restart) (ajoute un bouton ´redémarrer´)
 - [Mirrored Download]({{site.baseurl}}/en/beginner/josm-plugins/#mirrored-download) (vous permet de télécharger plus de données OSM)]
 - [Direct Upload]({{site.baseurl}}/en/beginner/josm-plugins/#direct-upload) (vous permet d'envoyer vos traces GPS)]
 - [Editgpx]({{site.baseurl}}/en/beginner/josm-plugins/#edit-gpx) (vous permet de modifier vos traces GPS)]
@@ -41,18 +40,6 @@ Nous vous recommandons également ces greffons, qui sont abordés dans d'autres 
 - Walking Papers
 - Buildings\_tool
 - Utilsplugin2
-
-Restart
--------
-
-![restart]({{site.baseurl}}/images/plugins_html_57cb1b84_en.png)
-
-__Restart__ comme son nom l'indique, ajoute une entrée «Redémarrer JOSM»
-dans le menu Fichier, ce qui vous permet de gagner du temps si vous devez
-fréquemment changer les réglages et redémarrer JOSM. Mais, surprise !
-ce greffon n'est pas actif avant que vous redémarriez, donc il vous faut d'abord
-le faire une dernière fois manuellement, après quoi vous verrez la nouvelle
-entrée dans le menu Fichier.
 
 ![]({{site.baseurl}}/images/plugins_html_m6d2d20a9_en.png)
 
@@ -108,7 +95,7 @@ compte OSM, vous devez le faire maintenant.
 ce greffon et les envois de traces GPS dans les [Annexes]{{site.baseurl}}/learnosm/fr/).
 
 
-edit gpx
+Edit gpx
 --------
 
 ![]({{site.baseurl}}/images/plugins_html_m1d1170b2_en.png)

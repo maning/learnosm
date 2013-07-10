@@ -32,7 +32,6 @@ dazu das JOSM sich automatisch neustartet.
 
 Empfohlene Erweiterung:
 
-- [Restart]({{site.baseurl}}/de/beginner/josm-plugins/#restart) (fügt JOSM neustarten in das Datei-Menü ein)
 - [Mirrored Download]({{site.baseurl}}/de/beginner/josm-plugins/#mirrored-download) (erlaubt das Herunterladen zusätzlicher OSM Daten)]
 - [Direct Upload]({{site.baseurl}}/de/beginner/josm-plugins/#direct-upload) (erlaubt das Hochladen von eigenen GPS Daten)]
 - [Editgpx]({{site.baseurl}}/de/beginner/josm-plugins/#edit-gpx) (erlaubt das Editieren von GPX Dateien)]
@@ -44,17 +43,6 @@ behandelt werden:
 - Walking Papers
 - Buildings\_tool
 - Utilsplugin2
-
-Restart
--------
-
-![restart]({{site.baseurl}}/images/plugins_html_57cb1b84_en.png)
-
-__Restart__ / Neustart hält dass, was es verspricht und erweitert das
-Dateimenü um die Option JOSM neuzustarten. Dies ist eine große 
-Zeitersparnis, wenn du häufig die Einstellungen veränderst. Allerdings
-ist diese Erweiterung nicht aktiv bis du das erste Mal einen Neustart durchführst.
-Nachdem du dies getan hast, taucht die Neustartoption im Dateimenü auf.
 
 ![]({{site.baseurl}}/images/plugins_html_m6d2d20a9_en.png)
 
@@ -107,7 +95,7 @@ Sobald deine GPS-Spur erfolgreich hochgeladen wurde, bekommst du ein "OK" als R�
 "GPS-Spur hochladen" Knopf wird inaktiv. Weiterführende Informationen über diese Erweiterung und 
 das Hochladen von GPS Daten sind im **Anhang** verfügbar. 
 
-edit gpx
+Edit gpx
 --------
 
 ![]({{site.baseurl}}/images/plugins_html_m1d1170b2_en.png)
