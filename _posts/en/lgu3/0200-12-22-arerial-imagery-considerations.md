@@ -2,8 +2,8 @@
 layout: doc
 title: Using Aerial Imagery
 permalink: /en/lgu3/aerial-imagery/
-lang: lgu3
-category: beginner
+lang: en
+category: lgu3
 ---
 
 Using Aerial Imagery
