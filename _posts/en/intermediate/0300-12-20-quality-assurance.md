@@ -211,7 +211,7 @@ To see how the tasking manager works, let’s take a closer look.
     open and you correctly enabled the remote control, the grid area of
     the map you selected will automatically be loaded into JOSM.
 
-10.  You may now edit the area using the instructions provided in the
+10. You may now edit the area using the instructions provided in the
     project information. When you are finished, you can return to the
     tasking manager website and add comments about your changes. Click
     “Mark task as done” to let other collaborators know that you have
@@ -220,7 +220,7 @@ To see how the tasking manager works, let’s take a closer look.
 
     ![]({{site.baseurl}}/images/intermediate/en_quality_assurance_image00.png)
 
-11.  If you are wondering what happens when you finish an area, the grid
+11. If you are wondering what happens when you finish an area, the grid
     square will turn red on the map to indicate that is done. Someone
     else will then look at your work to make sure it is good, and if
     they agree that you’ve completed the square well, the grid square
