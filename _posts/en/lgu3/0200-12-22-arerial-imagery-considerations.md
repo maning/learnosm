@@ -19,7 +19,7 @@ Nonetheless, tracing from imagery requires some precautions so that
 objects are not placed in the wrong location. There are two important
 aspects that must be considered when tracing from imagery:
 
-1.  Resolution: The resolution refers to the detail of imagery or the
+-   **Resolution:** The resolution refers to the detail of imagery or the
     number of pixels from which the image is comprised. A pixel is the
     smallest unit of an image. The smaller the area of the pixel the
     better the resolution. With smaller pixels you are able to
@@ -37,7 +37,7 @@ aspects that must be considered when tracing from imagery:
 
     ![puzzle][]
 
-2.  Georeference: Georeference is a term for how closely the imagery’s pixels match the
+-   **Georeference:** Georeference is a term for how closely the imagery’s pixels match the
     actual locations on the ground. This matching is a relatively complex process,
     and the greater the terrain variation and relief, the harder it is to achieve a good
     georeference. Satellites are hundreds of kilometers from the
