@@ -26,7 +26,7 @@ coordinates.
 Drawing a *real* map, that is, a map where all the points, lines, and
 shapes are in their proper location, is no different than drawing the
 maps we drew in chapter - But now, we will use our GPS points and
-tracks, and our Walking Papers, to draw similar maps at their correct
+tracks, and our Field Papers, to draw similar maps at their correct
 locations on the planet.
 
 In this chapter we will learn how to edit the map on OpenStreetMap and
@@ -38,7 +38,7 @@ add our improvements. We’ll learn the basic cycle of mapping on OSM:
   - [Download OSM Data]({{site.baseurl}}/en/lgu3/editing-with-josm/#download-osm-data)
   - [JOSM Layers]({{site.baseurl}}/en/lgu3/editing-with-josm/#josm-layers)
 
-**Edit** it using GPS, Walking Papers, and notes as a guide
+**Edit** it using GPS, Field Papers, and notes as a guide
 
   - [Edit]({{site.baseurl}}/en/lgu3/editing-with-josm/#edit)
   - [Tags]({{site.baseurl}}/en/lgu3/editing-with-josm/#tags)
@@ -58,7 +58,7 @@ A Tour of JOSM
 -  First, to start JOSM click on the Start Menu in the lower left
     corner of your computer, and find the program JOSM.
 
--  Then, load your gpx file and your Walking Paper in JOSM. You don’t
+-  Then, load your gpx file and your Field Paper in JOSM. You don’t
     need to open both, but you can if you want. Refer to the previous
     two chapters if you don’t remember how to open these in JOSM.
 
@@ -97,7 +97,7 @@ Download OSM Data
     **Download**,**edit**,**save**.Before we can edit the
     map, we must download the existing OSM data in our area.
 
--  When you open your gpx track or Walking Paper, the map window will
+-  When you open your gpx track or Field Paper, the map window will
     show what you have opened, and will automatically move to the
     correct coordinates. After you open your files, look in the bottom
     left corner of JOSM. You can see the latitude and longitude
@@ -122,7 +122,7 @@ Download OSM Data
 
 -  The pink box represents the area of the map that we would like to
     download for editing. Unless you have moved the map window since you
-    opened your GPS file or Walking Papers, the box should be drawn
+    opened your GPS file or Field Papers, the box should be drawn
     around the correct area. However if you would like to download a
     larger area, you can draw a new box. To draw a new box, click on the
     map, hold your left mouse button down, and drag your mouse to create
@@ -138,7 +138,7 @@ JOSM Layers
 
 -  Open your GPS file and downloaded data from OpenStreetMap, if you
     haven’t already. You may notice that when you open a file, or add
-    Walking Papers, or download from OpenStreetMap, another item is
+    Field Papers, or download from OpenStreetMap, another item is
     added to the Layers panel on the right side of JOSM. Your Layers
     panel may look something like this:
 
@@ -148,8 +148,8 @@ JOSM Layers
     you have open in your map window. In the example above, “Data Layer
     2” is the OpenStreetMap data that we want to edit. “Markers” are the
     waypoints from the GPS, and “30 Juni 201-gpx” is the track from the
-    GPS. Finally, “Walking Papers” is the layer created when I added my
-    Walking Paper into JOSM. You can add the Bing imagery layer, which
+    GPS. Finally, “Field Papers” is the layer created when I added my
+    Field Paper into JOSM. You can add the Bing imagery layer, which
     shows satellite imagery, by clicking “Imagery” on the top menu of
     JOSM and selecting “Bing Sat.”
 
@@ -166,7 +166,7 @@ JOSM Layers
 -  Lastly, it’s important to know that you can only edit the layer that
     is considered *active* by JOSM. If you are unable to edit the map in
     your map window, it’s probably because you don’t have the correct
-    layer set as active. Most layers, such as GPS points, Walking
+    layer set as active. Most layers, such as GPS points, Field
     Papers, and satellite imagery, can’t be edited. The only layers that
     can be edited are data from OpenStreetMap, which are usually called
     “Data Layer 1”.
@@ -192,10 +192,10 @@ Edit
     Describe these objects by selecting from the Presets menu, as you
     did in [Chapter 3]({{site.baseurl}}/en/beginner/start-josm/). 
 
--  Remember that your GPS points and your Walking Papers don’t
+-  Remember that your GPS points and your Field Papers don’t
     automatically go into OpenStreetMap. You need to add them to the OSM
     map *digitally*, using the draw tool. But your points, tracks, and
-    Walking Papers can be seen in the background as a guide.
+    Field Papers can be seen in the background as a guide.
 
 -  Let’s assume that you saved a waypoint on your GPS named 030, and
     you wrote in your notebook that 030 is a school. To add this point
