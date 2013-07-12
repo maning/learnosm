@@ -190,7 +190,7 @@ Edit
 
 -  Use the **draw tool** to draw new points, lines, and shapes.
     Describe these objects by selecting from the Presets menu, as you
-    did in [Chapter 3]({{site.baseurl}}/en/beginner/start-josm/). 
+    did in [Chapter 3]({{site.baseurl}}/en/lgu1/start-josm/). 
 
 -  Remember that your GPS points and your Field Papers don’t
     automatically go into OpenStreetMap. You need to add them to the OSM
