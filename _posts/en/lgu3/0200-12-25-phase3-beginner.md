@@ -2,13 +2,13 @@
 layout: doc
 permalink: /en/lgu3/
 lang: en
-title: Phase 3 using OSM
+title: Data Processing using OSM
 category: lgu3
 cover: yes
 nosearch: true
 ---
 
-Input Methods using OSM
+Data Processing using OSM
 ====================
 
-Welcome to the Phase 3 of Beginner's Guide using OSM. This guide dives more into creating your first points to the map and work with aerial imagery.
+Welcome to the 3rd phase of Beginner's Guide using OSM. Now that you have done fieldwork, we will now edit on JOSM the data that you collected during the fieldwork. For a better guide and visualization of the area when editing on JOSM, this material will help you how to load and use aerial imagery on JOSM.
