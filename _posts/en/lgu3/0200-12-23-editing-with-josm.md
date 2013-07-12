@@ -17,7 +17,7 @@ in JOSM.
 Drawing maps in Chapter 3 was an exercise to learn JOSM and learn how to
 draw places on the map. But our maps were not accurate, because we had
 not yet included location. In the past two chapters we have examined two
-tools, GPS and Walking Papers, which allow us to collect actual
+tools, GPS and Field Papers, which allow us to collect actual
 locations of places (Generally, GPS receivers determine your location
 within +/- 10 meters, so they may not be completely accurate, especially
 if you only take one waypoint). These locations are represented by
