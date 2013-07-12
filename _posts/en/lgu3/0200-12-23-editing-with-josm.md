@@ -34,20 +34,20 @@ add our improvements. We’ll learn the basic cycle of mapping on OSM:
 
 **Download** the current map data from OSM
 
-  - [Tour of JOSM]({{site.baseurl}}/en/beginner/editing-with-josm/#a-tour-of-josm)
-  - [Download OSM Data]({{site.baseurl}}/en/beginner/editing-with-josm/#download-osm-data)
-  - [JOSM Layers]({{site.baseurl}}/en/beginner/editing-with-josm/#josm-layers)
+  - [Tour of JOSM]({{site.baseurl}}/en/lgu3/editing-with-josm/#a-tour-of-josm)
+  - [Download OSM Data]({{site.baseurl}}/en/lgu3/editing-with-josm/#download-osm-data)
+  - [JOSM Layers]({{site.baseurl}}/en/lgu3/editing-with-josm/#josm-layers)
 
 **Edit** it using GPS, Walking Papers, and notes as a guide
 
-  - [Edit]({{site.baseurl}}/en/beginner/editing-with-josm/#edit)
-  - [Tags]({{site.baseurl}}/en/beginner/editing-with-josm/#tags)
+  - [Edit]({{site.baseurl}}/en/lgu3/editing-with-josm/#edit)
+  - [Tags]({{site.baseurl}}/en/lgu3/editing-with-josm/#tags)
 
 **Save** changes to OpenStreetMap
 
-  - [Upload Changes]({{site.baseurl}}/en/beginner/editing-with-josm/#upload-changes)
-  - [See Your Changes on the Map]({{site.baseurl}}/en/beginner/editing-with-josm/#see-your-changes-on-the-map)
-  - [Saving OSM files]({{site.baseurl}}/en/beginner/editing-with-josm/#saving-osm-files)
+  - [Upload Changes]({{site.baseurl}}/en/lgu3/editing-with-josm/#upload-changes)
+  - [See Your Changes on the Map]({{site.baseurl}}/en/lgu3/editing-with-josm/#see-your-changes-on-the-map)
+  - [Saving OSM files]({{site.baseurl}}/en/lgu3/editing-with-josm/#saving-osm-files)
 
 By the end of this chapter, we will be able to see our additions on the
 OSM map.
