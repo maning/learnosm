@@ -55,19 +55,19 @@ OSM map.
 A Tour of JOSM
 --------------
 
--  First, to start JOSM click on the Start Menu in the lower left
+1.  First, to start JOSM click on the Start Menu in the lower left
     corner of your computer, and find the program JOSM.
 
--  Then, load your gpx file and your Walking Paper in JOSM. You don’t
+2.  Then, load your gpx file and your Walking Paper in JOSM. You don’t
     need to open both, but you can if you want. Refer to the previous
     two chapters if you don’t remember how to open these in JOSM.
 
--  A quick tour of JOSM’s features: JOSM has many different features.
+3.  A quick tour of JOSM’s features: JOSM has many different features.
     The main window in JOSM you are already familiar with- this is the
     map window, and it is where most of the action takes place. Here you
     view, edit, and add to the OpenStreetMap data.
 
--  To the right of the map window are a series of panels, which each do
+4.  To the right of the map window are a series of panels, which each do
     something different. Typically when you first install JOSM several
     panels are shown by default, such as Layers, Properties, and
     Selection. When you select a point, line, or shape in the map
@@ -77,14 +77,14 @@ A Tour of JOSM
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_46acf705_en.png)
 
--  On the left side of JOSM, there are several toolbars, which consist
+5.  On the left side of JOSM, there are several toolbars, which consist
     of many buttons. At the top of this bar are different buttons which
     change what you can do with your mouse. You are already familiar
     with the first two, the Select tool and the Draw tool. The other
     tools make it easier to zoom in, delete an object, draw a shape, or
     create a line that is parallel to another line.
 
--  Below these tools are many more buttons. These buttons control what
+6.  Below these tools are many more buttons. These buttons control what
     you see on the right side of JOSM. Using these buttons you can open
     and close the boxes on the right, such as properties, selection, and
     author.
@@ -136,7 +136,7 @@ Download OSM Data
 JOSM Layers
 -----------
 
--  Open your GPS file and downloaded data from OpenStreetMap, if you
+1.  Open your GPS file and downloaded data from OpenStreetMap, if you
     haven’t already. You may notice that when you open a file, or add
     Walking Papers, or download from OpenStreetMap, another item is
     added to the Layers panel on the right side of JOSM. Your Layers
@@ -144,7 +144,7 @@ JOSM Layers
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_5c2b7c3b_en.png)
 
--  Each item in this list represents a different source of data that
+2.  Each item in this list represents a different source of data that
     you have open in your map window. In the example above, “Data Layer
     2” is the OpenStreetMap data that we want to edit. “Markers” are the
     waypoints from the GPS, and “30 Juni 201-gpx” is the track from the
@@ -153,17 +153,17 @@ JOSM Layers
     shows satellite imagery, by clicking “Imagery” on the top menu of
     JOSM and selecting “Bing Sat.”
 
--  To hide one of these layers, select one of them with your mouse and
+3.  To hide one of these layers, select one of them with your mouse and
     click the Show/Hide button that looks like
     this:![]({{site.baseurl}}/images/EditingWithJOSM_html_5c2e696f_en.png)
     
--  You should see the layer that you selected disappear in the map
+4.  You should see the layer that you selected disappear in the map
     window. Click Show/Hide again, and it will reappear.
 
--  You can close a layer by selecting it and using the delete
+5.  You can close a layer by selecting it and using the delete
     button:![]({{site.baseurl}}/images/EditingWithJOSM_html_m172543d8_en.png)
 
--  Lastly, it’s important to know that you can only edit the layer that
+6.  Lastly, it’s important to know that you can only edit the layer that
     is considered *active* by JOSM. If you are unable to edit the map in
     your map window, it’s probably because you don’t have the correct
     layer set as active. Most layers, such as GPS points, Walking
@@ -171,7 +171,7 @@ JOSM Layers
     can be edited are data from OpenStreetMap, which are usually called
     “Data Layer 1”.
 
--  To make a layer active, select it in the Layers panel, and click on
+7.  To make a layer active, select it in the Layers panel, and click on
     the Activate button:![]({{site.baseurl}}/images/EditingWithJOSM_html_de83a77_en.png)
 
 Edit
@@ -269,27 +269,27 @@ edit the tags directly in the Properties window on the right.
 Upload Changes
 --------------
 
--  After you have made a couple of changes to improve the map, let’s
+1.  After you have made a couple of changes to improve the map, let’s
     save those changes to OpenStreetMap. To save the changes, we need to
     be connected to the internet, because we are in fact uploading the
     changes to OpenStreetMap.
 
--  Click “File” on the top menu, and then click “Upload Data”. This
+2.  Click “File” on the top menu, and then click “Upload Data”. This
     will open up the upload window. You can access this window more
     simply by clicking on the upload button, shown here:
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_2e194887_en.png)
 
--  The window that appears shows a list of the objects that you are
+3.  The window that appears shows a list of the objects that you are
     adding and the objects you are modifying or deleting. In the box at
     the bottom you are asked to provide a comment about the changes that
     you are making. Type in here a description of your edits.
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_67f320b3_en.png)
 
--  Click “Upload Changes”.
+4.  Click “Upload Changes”.
 
--  If this is your first time saving changes to OpenStreetMap, you will
+5.  If this is your first time saving changes to OpenStreetMap, you will
     be asked for the username and password that you created in Chapter
     - Enter them in the window that appears. If you check the box in
     this window, your username and password will be saved and you won’t
@@ -297,7 +297,7 @@ Upload Changes
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_m5f20c80_en.png)
 
--  You will need to wait a few seconds for your changes to be uploaded,
+6.  You will need to wait a few seconds for your changes to be uploaded,
     and then you are done! You have made your first edits to
     OpenStreetMap. You may continue editing to add all your points if
     you wish. Always be sure to upload your changes before you close
