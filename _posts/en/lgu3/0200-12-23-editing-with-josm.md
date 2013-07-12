@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Editing JOSM
+title: Editing with JOSM
 permalink: /en/lgu3/editing-with-josm/
 lang: en
 category: lgu3
