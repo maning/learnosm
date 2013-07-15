@@ -1,6 +1,6 @@
 ---
 layout: doc
-permalink: /en/lgu1/
+permalink: /en/lgu1/phase4
 lang: en
 title: For Proper and Excellent Editing on OSM
 category: lgu1

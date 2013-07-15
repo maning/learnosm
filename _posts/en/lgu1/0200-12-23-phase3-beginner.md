@@ -1,6 +1,6 @@
 ---
 layout: doc
-permalink: /en/lgu1/
+permalink: /en/lgu1/phase3
 lang: en
 title: Data Processing using OSM
 category: lgu1
