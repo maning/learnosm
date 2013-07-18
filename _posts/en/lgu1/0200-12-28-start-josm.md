@@ -205,7 +205,7 @@ Learn Basic Drawing with JOSM
 - Lastly, there are numerous shapes on the sample map, representing
   different places - a forest, a river, and buildings. A shape
   generally represents an area, like a field or a building. A shape is
-  exactly like a line - the only difference is that the line begins at
+  exactly like a line - the only difference is that its line begins at
   the same point where it ends.
 - You may notice that when you select an object, a list appears to the
   right of the map in a window called “Properties”. These are known as
