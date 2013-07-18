@@ -31,7 +31,7 @@ Download JOSM
 - You can also find this website by searching for “JOSM”
 - The website should look something like this:
 
-  ![]({{site.baseurl}}/images/start_josm_image05_en.png)
+  ![]({{site.baseurl}}/images/start_josm00.png)
 
 - If you have Windows installed on your computer, click “Windows JOSM
   Installer” to download JOSM. If you have a different operating
