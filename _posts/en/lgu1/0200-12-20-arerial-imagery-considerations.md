@@ -182,7 +182,7 @@ Whether it be through poor resolution or poorly georeferenced imagery,
 there are ways you can deal with inaccurate imagery. They mainly involve
 referencing imagery with GPS traces and tracks.
 
-[puzzle]: {{site.baseurl}}/images/offset_puzzle_en.png
+[puzzle]: {{site.baseurl}}/images/offset_puzzle.png
 [existing data]: {{site.baseurl}}/images/offset_existing_data_en.png
 [download]: {{site.baseurl}}/images/offset_tool_download_en.png
 [downloaded GPX]: {{site.baseurl}}/images/offset_downloaded_gpx_en.png
