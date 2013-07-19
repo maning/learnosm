@@ -31,11 +31,11 @@ plugin is made to restart JOSM for you!
 
 Recommended Plug-ins:
 
-- [Restart]({{site.baseurl}}/en/beginner/josm-plugins/#restart) (inserts ´restart´ button)
-- [Mirrored Download]({{site.baseurl}}/en/beginner/josm-plugins/#mirrored-download) (allows you to download more OSM data)]
-- [Direct Upload]({{site.baseurl}}/en/beginner/josm-plugins/#direct-upload) (allow you to upload GPS tracks)]
-- [Editgpx]({{site.baseurl}}/en/beginner/josm-plugins/#edit-gpx) (allows you to edit GPX files)]
-- [Print]({{site.baseurl}}/en/beginner/josm-plugins/#print)
+- [Restart]({{site.baseurl}}/en/lgu1/josm-plugins/#restart) (inserts ´restart´ button)
+- [Mirrored Download]({{site.baseurl}}/en/lgu1/josm-plugins/#mirrored-download) (allows you to download more OSM data)]
+- [Direct Upload]({{site.baseurl}}/en/lgu1/josm-plugins/#direct-upload) (allow you to upload GPS tracks)]
+- [Editgpx]({{site.baseurl}}/en/lgu1/josm-plugins/#edit-gpx) (allows you to edit GPX files)]
+- [Print]({{site.baseurl}}/en/lgu1/josm-plugins/#print)
 
 We also recommend downloading these plug-ins, which are covered in other
 chapters:
