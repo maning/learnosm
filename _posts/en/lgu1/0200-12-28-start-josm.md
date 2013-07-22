@@ -124,6 +124,9 @@ click “Edit” on the top menu, and then click “Preferences.”
  ´optional plugins appear in the window.
 - In the search box at the top, type “field”. This will show only
   items in the list that have "field” in the title.
+  
+  ![]({{site.baseurl}}/images/fieldplugin.png)
+  
 - Click the checkbox next to the fieldpapers plugin, and press OK at
   the bottom of the window.
 - Field Papers will now be downloaded and installed. Do not click
