@@ -64,7 +64,7 @@ To see how the tasking manager works, let’s take a closer look.
     
 -   Here, you see a view of square that you have offered to map.  You
     can automatically open the area up for editing with JOSM, Potlatch
-    2, or create a Walking Paper.
+    2, or create a Field Paper.
 -   If you're going to edit on JOSM, you need to enable JOSM plugin
     before you will be able to launch the application from the Tasking
     Manager.  To do this, open JOSM and go the Preferences menu.  Click
