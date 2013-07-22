@@ -58,7 +58,7 @@ A Tour of JOSM
 1.  First, to start JOSM click on the Start Menu in the lower left
     corner of your computer, and find the program JOSM.
 
-2.  Then, load your gpx file and your Walking Paper in JOSM. You don’t
+2.  Then, load your gpx file and your Field Paper in JOSM. You don’t
     need to open both, but you can if you want. Refer to the previous
     two chapters if you don’t remember how to open these in JOSM.
 
