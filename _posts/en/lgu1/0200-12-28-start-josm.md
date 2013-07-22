@@ -106,13 +106,13 @@ click “Edit” on the top menu, and then click “Preferences.”
   example, buildings.xml.
 - Click OK
 
-### Add Walking Papers Plugin
+### Add Field Papers Plugin
 
-- Later in this guide we will learn about a tool called Walking
+- Later in this guide we will learn about a tool called Field
   Papers, which will allow us to print out a map of an area, draw on
   it and take notes, and then load it into JOSM in the background.
   Then we can add our drawings and our notes into OpenStreetMap. Now
-  we will add the Walking Papers plugin to JOSM.
+  we will add the Field Papers plugin to JOSM.
 - You should still have the Preferences window open. If you don’t,
   click Edit -\> Preferences to open the window.
 - On the left side, click the icon that looks like a plug.
@@ -122,11 +122,11 @@ click “Edit” on the top menu, and then click “Preferences.”
 - Click the button that says “Download list”. The list will download
   from the internet, and when it is finished you will see a list of
  ´optional plugins appear in the window.
-- In the search box at the top, type “walking”. This will show only
-  items in the list that have “walking” in the title.
-- Click the checkbox next to the walkingpapers plugin, and press OK at
+- In the search box at the top, type “field”. This will show only
+  items in the list that have "field” in the title.
+- Click the checkbox next to the fieldpapers plugin, and press OK at
   the bottom of the window.
-- Walking Papers will now be downloaded and installed. Do not click
+- Field Papers will now be downloaded and installed. Do not click
   “Cancel”.
 
 ### Change Language
@@ -304,6 +304,6 @@ Summary
 
 Excellent! If all went well you have learned how to setup JOSM on your
 computer, and the basic tools for drawing maps. In the next two
-chapters, you will learn how to use GPS and Walking Papers to map your
+chapters, you will learn how to use GPS and Field Papers to map your
 town or village. In Chapter 6, we will return to JOSM and using the
 information we collected, we will add objects to OpenStreetMap.
