@@ -15,7 +15,7 @@ mapping skills. JOSM allows you to install numerous plugins, which are
 extra tools that allow you to complete specific tasks in the software.
 You have already installed several plugins if you have been following
 these tutorials. In the preceding chapter, you installed a plugin that
-allows you to use Walking Papers. There are many different plugins 
+allows you to use Field Papers. There are many different plugins 
 available in JOSM and we will cover some of the most useful ones
 in this chapter.
 
@@ -31,7 +31,6 @@ plugin is made to restart JOSM for you!
 
 Recommended Plug-ins:
 
-- [Restart]({{site.baseurl}}/en/lgu1/josm-plugins/#restart) (inserts ´restart´ button)
 - [Mirrored Download]({{site.baseurl}}/en/lgu1/josm-plugins/#mirrored-download) (allows you to download more OSM data)]
 - [Direct Upload]({{site.baseurl}}/en/lgu1/josm-plugins/#direct-upload) (allow you to upload GPS tracks)]
 - [Editgpx]({{site.baseurl}}/en/lgu1/josm-plugins/#edit-gpx) (allows you to edit GPX files)]
@@ -40,25 +39,9 @@ Recommended Plug-ins:
 We also recommend downloading these plug-ins, which are covered in other
 chapters:
 
-- Walking Papers
+- Field Papers
 - Buildings\_tool
 - Utilsplugin2
-
-Restart
--------
-
-![restart]({{site.baseurl}}/images/plugins_html_57cb1b84_en.png)
-
-__Restart__ does just what it says. It adds an item in
-the File menu that tells JOSM to restart. This can save you time when
-you are changing settings and need to restart the software often. But
-guess what! The plugin won’t be activated until you restart, so first
-you will need to restart JOSM manually. Once you have done this, you
-will see the new item on the File menu.
-
-![]({{site.baseurl}}/images/plugins_html_m6d2d20a9_en.png)
-
-Try clicking “Restart JOSM” and watch the software reload on its own.
 
 Mirrored Download
 -----------------
