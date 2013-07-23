@@ -91,7 +91,9 @@ functions are described here:
 -  **Align Nodes in Line:** This function will align a series of points
     into a straight line.  With long lines it is best to select sections
     of the line to straighten.  Be careful as this does have the
-    tendency to shift the line a little. ![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image17.png)
+    tendency to shift the line a little.
+	
+	![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image17.png)
 
 -  **Orthogonalize Shape:** This function is very useful for drawing
     regular shapes such as buildings. After you draw an area, this
@@ -195,7 +197,9 @@ These tools have proved to be the most useful:
 #### **Utilsplugin2 (Selection):**
 
 And you also have access to more \<\<Selection\>\>
-tool:![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image55.png)
+tool:
+
+![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image55.png)
 
 These tools have proved to be the most useful:
 
@@ -204,7 +208,9 @@ These tools have proved to be the most useful:
     you have mapped several polygon objects with similar attributes and
     would like to tag the objects without tagging the nodes.  To do so,
     select all of the objects-- polygons, ways and relations-- unselect
-    the nodes and **tag** appropriately.  ![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image50.png)
+    the nodes and **tag** appropriately.
+	
+	![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image50.png)
 
 -  **Select Last Modified Nodes:**  This tool permits you to go back to the
     nodes that you most recently changed.  It is like undo: node style.

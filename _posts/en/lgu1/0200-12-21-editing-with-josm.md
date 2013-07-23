@@ -330,7 +330,9 @@ Saving OSM files
 -  To save an OSM file, make sure that it is the active layer in the
     the Layers panel. Click “File” on the top menu, and click “Save”.
     Choose a location for the file and give it a name. You can also save
-    by clicking this button:![]({{site.baseurl}}/images/EditingWithJOSM_html_m3d7a0a33_en.png)
+    by clicking this button:
+	
+	![]({{site.baseurl}}/images/EditingWithJOSM_html_m3d7a0a33_en.png)
 
 -  You can now close JOSM and your data will be saved. When you want to
     open the file again, simply open JOSM, go to the “File” menu, and

@@ -93,7 +93,10 @@ cumbersome and at times confusing.
 Next, you will get a pop-up that details your conflict. The error
 message that appears looks complicated, but it is rather simple. You
 will know what type of conflict you have by the symbol
-![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)in the top tab. This one refers to the
+
+![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)
+
+in the top tab. This one refers to the
 properties, such as the location and existence of the object, of the
 object. This is why the coordinates and deleted state are listed. 
 
@@ -128,7 +131,11 @@ says:
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image28.png)
 
 On your Windows menu you have a **Conflict List
-Dialog** ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image26.png). This window displays a list of
+Dialog**
+
+![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image26.png)
+
+. This window displays a list of
 conflicts. The total number of unresolved conflicts is shown in the
 header. You can select or resolve a conflict by clicking on it. This is
 useful when you have many conflicts to deal with.
@@ -171,8 +178,11 @@ object has been edited by two people at a similar time.
 ### Tag Conflicts
 
 If the tags of one version of an objects are different from the tags of
-another version, the Conflict dialog shows a ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)in
-the tab Tags. Click on the tab to display a dialog for resolving tag
+another version, the Conflict dialog shows a
+
+![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)
+
+in the tab Tags. Click on the tab to display a dialog for resolving tag
 conflicts.
 
 There are three tables displayed in this dialog, from left to right:
@@ -211,7 +221,11 @@ The values you've chosen will be applied and the dialog will be closed.
 
 ## Resolving differences in the node list of two versions of a way
 
-If you see the symbol ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)in the tab **Nodes** then you
+If you see the symbol
+
+![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image08.png)
+
+in the tab **Nodes** then you
 have to resolve differences in the list of
 [nodes](http://josm.openstreetmap.de/wiki/Help/Concepts/Object)of two
 [ways](http://josm.openstreetmap.de/wiki/Help/Concepts/Object). There
@@ -239,7 +253,10 @@ of three steps:
 1.  Pick nodes from either object version and reorder the resulting node
     list if necessary
 2.  **Freeze** the resulting merged node list by clicking on the button
-    ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image16.png). When you freeze the merged node list you
+
+    ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image16.png)
+	
+	. When you freeze the merged node list you
     tell JOSM that all conflicts in the node list are resolved.
 3.  Apply the resolution
 
@@ -249,22 +266,29 @@ The following example shows the workflow when you decide to keep all nodes in th
 
 First, select all elements in the leftmost table (either using the mouse or by 
 pressing Ctrl-A in the table) (see next screen shot):
+
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image04.png)
 
 Then, click 
+
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image19.png)
+
 to copy the selected nodes to the middle table with the merged nodes:
 
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image01.png)
 
 Finally, click
+
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image16.png)
+
 to freeze the resulting merged node list:
 
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image20.png)
 
 The symbol in the nodes tab now switched to 
+
 ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image00.png)
+
 and you can apply the merge decisions.
 
 ## Support for comparing node lists
@@ -288,11 +312,16 @@ Depending on the position of a node in the list different background
 colors are used:
 
 -  The node is in this list only. It isn't present in the opposite list:
+
    ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image13.png)
+
 -  The node is in both lists, but it is on different positions:
+   
    ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image02.png)
+
 -  White background means that a node is in both lists at the same
    position.
+
    ![]({{site.baseurl}}/images/intermediate/en_conflict_resolution_image17.png)
 
 

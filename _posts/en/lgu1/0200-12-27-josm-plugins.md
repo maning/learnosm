@@ -106,15 +106,23 @@ Once the plug-in is installed (and you have restarted JOSM), you will
 see this new tool ![]({{site.baseurl}}/images/plugins_html_42e55708_en.png) in the tool bar on
 the left.
 
-1. Open a GPX file in JOSM![]({{site.baseurl}}/images/plugins_html_3fabdc1a_en.png)
+1. Open a GPX file in JOSM
 
-2. Press the new button ![]({{site.baseurl}}/images/plugins_html_42e55708_en.png) in the left
-menu bar and the GPX data will be imported to a new EditGpx layer. Every
-node of the track will be highlighted in yellow.![]({{site.baseurl}}/images/plugins_html_m3f86e83d_en.png)
+![]({{site.baseurl}}/images/plugins_html_3fabdc1a_en.png)
+
+2. Press the new button 
+
+![]({{site.baseurl}}/images/plugins_html_42e55708_en.png)
+in the left menu bar and the GPX data will be imported to a new EditGpx layer. Every
+node of the track will be highlighted in yellow.
+
+![]({{site.baseurl}}/images/plugins_html_m3f86e83d_en.png)
 
 3. Now mark the points (by clicking) or areas (by drawing a rectangle on
 their extent) that you would like to delete. The yellow highlighting
-should disappear.![]({{site.baseurl}}/images/plugins_html_m7e01ae1f_en.png)
+should disappear.
+
+![]({{site.baseurl}}/images/plugins_html_m7e01ae1f_en.png)
 
 4. Right click on the layer name and choose \<\<Convert to GPX layer\>\> in
 the \<\<Context\>\> menu.
