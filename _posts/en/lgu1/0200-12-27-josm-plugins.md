@@ -233,7 +233,9 @@ Uploading GPS Traces Online
 1. Go
 to [http://www.openstreetmap.org/](http://www.openstreetmap.org/) and log in.
 
-2. Select \<\<GPS Traces\>\> found on the left banner.![]({{site.baseurl}}/images/plugins_html_32e7d3be_en.png)
+2. Select \<\<GPS Traces\>\> found on the left banner.
+
+![]({{site.baseurl}}/images/plugins_html_32e7d3be_en.png)
 
 3. Select
 [upload a trace](http://www.openstreetmap.org/trace/create).
