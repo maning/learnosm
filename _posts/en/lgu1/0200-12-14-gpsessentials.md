@@ -17,9 +17,9 @@ Installation of GPS Essentials
 3. Use the search bar at the top to search for “GPS Essentials”.
 4. Tap the GPS Essentials icon (
 
-![GPSElogo][]
+   ![GPSElogo][]
 
-) and select "Install".
+   ) and select "Install".
 
 If you don't have access to Google Play or if you want to download versions other than the stable release
 such as older versions or the latest beta, you can download GPS Essentials from http://www.images.com.
@@ -29,11 +29,12 @@ Configure GPS Essentials to Work Offline
 
 1. Open GPS Essentials. Go to Settings and select Map Cache. Move the cache limit to maximum.
 
-![MapCache][]
+   ![MapCache][]
 
 2. Find a strong network connection. From main screen, select 'Portable Maps'. Every map you view in portable
 map mode automatically saves to the Android's memory. Save maps you will need offline in as much detail as
 possible, and slowly zoom in on each waypoint.
+
 3. Disconnect from the network and view maps in portable map mode. If some maps lack detail, re-connect to a
 network and slowly zoom in on the map location you need.
 
@@ -54,7 +55,7 @@ high above the horizon usually have better signals.
 To check the satellites in your area:
 1. From the main menu, select Satellites.
 
-![Satellites][]
+   ![Satellites][]
 
 2. If there are at least 4 satellites, then you may start using the GPS Essentials features.
 
@@ -62,10 +63,11 @@ Creating Tracks
 -------------
 
 1. From the main menu, select Tracks.
+
 2. Tap on Start from the toolbar. It will create a new track and start recording. Wait some seconds until GPS fix is
 available.
 
-![Tracks1][]
+   ![Tracks1][]
 
 3. Select Pause button to pause recording. If you want to continue recording, press it again.
 
@@ -73,61 +75,72 @@ Creating Waypoints
 -------------
 
 ### Using Portable Maps
-	a. From the main menu, select Portable Maps.
-	b. Tap and hold on the map to create a new cursor.
 
-![Waypoints1][]
+1. From the main menu, select Portable Maps.
 
-	c. Drag the cursor onto the location where you want the new waypoint.
-	d. Tap on Actions (
+2. Tap and hold on the map to create a new cursor.
+
+   ![Waypoints1][]
+
+3. Drag the cursor onto the location where you want the new waypoint.
+
+4. Tap on Actions (
 	
-![Actions][]
+   ![Actions][]
+
+   ) to show the actions pane.
 	
-	) to show the actions pane.
+5. Select the Add Tool to create the waypoint.
 	
-	e. Select the Add Tool to create the waypoint.
-	
-![Waypoints2][]
+   ![Waypoints2][]
 	
 ### Using Google Maps
-	a. From the main menu, select Google Maps.
-	b. Go to the location where you want to add your waypoint.
-	c. Select the Add Tool to create the waypoint. Tap on the location on the map to create a 
-    Waypoint there. If you want to create a waypoint at your current location, tap the Add
-	Waypoint button again.
 
-![GoogleMaps][]
+1. From the main menu, select Google Maps.
 
-	d. Repeat steps b and c until you are finished recording your desired waypoints.
+2. Go to the location where you want to add your waypoint.
+
+3. Select the Add Tool to create the waypoint. Tap on the location on the map to create a 
+   Waypoint there. If you want to create a waypoint at your current location, tap the Add
+   Waypoint button again.
+
+   ![GoogleMaps][]
+
+4. Repeat steps b and c until you are finished recording your desired waypoints.
 
 ### Using Waypoints page
-	a. From the main menu, select Waypoints.
-	b. Select the Add tool to create the waypoint.
 
-![Waypointspage1][]
+1. From the main menu, select Waypoints.
 
-	c. It will start recording your 1st waypoint. You may change the attributes of the waypoint
-	and then press Back to get back to the list.
+2. Select the Add tool to create the waypoint.
+
+   ![Waypointspage1][]
+
+3. It will start recording your 1st waypoint. You may change the attributes of the waypoint
+   and then press Back to get back to the list.
 	
-![Waypointspage2][]
+   ![Waypointspage2][]
 
-	d. When you select the Map pane, you will see where your waypoint is located on the map.
+4. When you select the Map pane, you will see where your waypoint is located on the map.
 	
-![Waypointspage3][]
+   ![Waypointspage3][]
 
-	e. Select (
+5. Select (
 	
-![Close][]
+   ![Close][]
 
-	) to save your waypoint.
+   ) to save your waypoint.
 	
 Geotagging Photos
 -------------
 
 1. From the main menu, select Camera.
+
 2. Take a picture of your desired area for geotagging.
+
 3. The photo you took will serve as a waypoint and automatically be saved on the Portable Maps
 and Google Maps page.
+
 4. The data (picture location and the photo file name) will also be logged on the Waypoints page.
 You may also choose which icon to be used for a particular image. The icon will be shown on the
 Portable Maps and Google Maps page as well.
@@ -143,48 +156,52 @@ Exporting/Saving Waypoints
 -------------
 
 1. From the main menu, select Waypoints. It will show you the list of waypoints you recorded.
+
 2. To export all the waypoints, select Export from the Options button. If you want to export
 a single waypoint, select the desired waypoint, click the Options button and select Export.
+
 3. The dropdown box will let you select what type of file you want your data to be exported.
 For now, click KML (Google Earth).
 
-![Export1][]
+   ![Export1][]
 
 4. Select the SD card icon to manually select your desired location of the file.
 
-![Export2][]
+   ![Export2][]
 
 5. Click (
 
-![Arrow][]
+   ![Arrow][]
 
-) to Save.
+   ) to Save.
 
 Exporting/Saving Tracks
 -------------
 
 1. From the main menu, select Tracks. It shows the data from the current track you recorded.
+
 2. Select Export from the Options button to write the contents of the current track to a file.
+
 3. If you want to export the previous track you recorded, select Tracks icon (
 
-![Footprints][]
+   ![Footprints][]
 
-) and choose the desired track. Click the Options button and select Export.
+   ) and choose the desired track. Click the Options button and select Export.
 
 4. The dropdown box will let you select what type of file you want your data to be exported.
 For now, click KML (Google Earth).
 
-![Export1][]
+   ![Export1][]
 
 5. Select the SD card icon to manually select your desired location of the file.
 
-![Export3][]
+   ![Export3][]
 
 6. Click (
 
-![Arrow][]
+   ![Arrow][]
 
-) to Save.
+   ) to Save.
 
 [GPSElogo]: {{site.baseurl}}/images/Logo.png
 [MapCache]: {{site.baseurl}}/images/mapcache.png
