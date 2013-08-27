@@ -15,11 +15,7 @@ Installation of GPS Essentials
 1. Tap the “Google Play Store” app icon on your Android device’s home screen to open the Android Market.
 2. Tap the “Search” icon in the upper right corner.
 3. Use the search bar at the top to search for “GPS Essentials”.
-4. Tap the GPS Essentials icon (
-
-   ![GPSElogo][]
-
-   ) and select "Install".
+4. Tap the GPS Essentials icon (![GPSElogo][]) and select "Install".
 
 If you don't have access to Google Play or if you want to download versions other than the stable release
 such as older versions or the latest beta, you can download GPS Essentials from http://www.images.com.
@@ -53,6 +49,7 @@ The lower the satellite is above the horizon, the longer its signals travel thro
 high above the horizon usually have better signals. 
 
 To check the satellites in your area:
+
 1. From the main menu, select Satellites.
 
    ![Satellites][]
