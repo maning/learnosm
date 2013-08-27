@@ -56,7 +56,7 @@ To check the satellites in your area:
 
    ![Satellites][]
 
-2. If there are at least 4 satellites, then you may start using the GPS Essentials features.
+2. If there are at least 4 satellites used in fix, then you may start using the GPS Essentials features.
 
 Creating Tracks
 -------------
