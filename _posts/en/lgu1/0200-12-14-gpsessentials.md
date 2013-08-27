@@ -122,7 +122,7 @@ Creating Waypoints
 	
    ![Waypointspage3][]
 
-5. Select Close icon to save your waypoint. It looks like this:
+5. Select Close icon to save your waypoint. The Close icon looks like this:
 	
    ![Close][]
 
