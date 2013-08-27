@@ -15,7 +15,9 @@ Installation of GPS Essentials
 1. Tap the “Google Play Store” app icon on your Android device’s home screen to open the Android Market.
 2. Tap the “Search” icon in the upper right corner.
 3. Use the search bar at the top to search for “GPS Essentials”.
-4. Tap the GPS Essentials icon (![GPSElogo][]) and select "Install".
+4. Tap the GPS Essentials icon and select "Install". The icon looks like this:
+
+   ![GPSElogo][]
 
 If you don't have access to Google Play or if you want to download versions other than the stable release
 such as older versions or the latest beta, you can download GPS Essentials from http://www.images.com.
@@ -81,11 +83,9 @@ Creating Waypoints
 
 3. Drag the cursor onto the location where you want the new waypoint.
 
-4. Tap on Actions (
+4. Tap on Actions to show the actions pane. The Actions icon looks like this:
 	
    ![Actions][]
-
-   ) to show the actions pane.
 	
 5. Select the Add Tool to create the waypoint.
 	
@@ -122,11 +122,11 @@ Creating Waypoints
 	
    ![Waypointspage3][]
 
-5. Select (
+5. Select Close icon to save your waypoint. It looks like this:
 	
    ![Close][]
 
-   ) to save your waypoint.
+
 	
 Geotagging Photos
 -------------
@@ -166,11 +166,9 @@ For now, click KML (Google Earth).
 
    ![Export2][]
 
-5. Click (
+5. Click this icon to Save.
 
    ![Arrow][]
-
-   ) to Save.
 
 Exporting/Saving Tracks
 -------------
@@ -179,14 +177,14 @@ Exporting/Saving Tracks
 
 2. Select Export from the Options button to write the contents of the current track to a file.
 
-3. If you want to export the previous track you recorded, select Tracks icon (
+3. If you want to export the previous track you recorded, select Tracks icon and choose the desired track.
+   Click the Options button and select Export. The Tracks icon looks like this:
 
    ![Footprints][]
 
-   ) and choose the desired track. Click the Options button and select Export.
 
 4. The dropdown box will let you select what type of file you want your data to be exported.
-For now, click KML (Google Earth).
+   For now, click KML (Google Earth).
 
    ![Export1][]
 
@@ -194,11 +192,9 @@ For now, click KML (Google Earth).
 
    ![Export3][]
 
-6. Click (
+6. Click this icon to Save.
 
    ![Arrow][]
-
-   ) to Save.
 
 [GPSElogo]: {{site.baseurl}}/images/Logo.png
 [MapCache]: {{site.baseurl}}/images/mapcache.png
