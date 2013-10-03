@@ -124,10 +124,8 @@ edge of your building and then you drag out the line to make it a
 polygon.  
 
 ![Trace edge](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image58.png)
-Trace edge
 
 ![Making polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image19.png)
-Making polygon
 
 You can also create more complicated buildings by using the merge
 option.  Create your building outline, select all of the polygons (press
@@ -152,7 +150,6 @@ same under the \<\<Advanced\>\> tab.
 ![Building size tab](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image13.png)
 
 ![Advance settings](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image64.png)
-Advance settings
 
 #### **Utilsplugin2 (More Tools):** 
 This add-on has a few features that may
@@ -342,7 +339,6 @@ tagged as relation members.
 4.  Fill in the corresponding information about the bus route.  
 
     ![Bus Route](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image60.png)
-	Bus Route
 
 Relations are difficult to understand and do not have to be used often,
 but they are necessary to know about.  As you get more developed with
