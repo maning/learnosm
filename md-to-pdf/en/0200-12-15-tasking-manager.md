@@ -25,22 +25,22 @@ To see how the tasking manager works, let’s take a closer look.
     [tasks.hotosm.org](http://tasks.hotosm.org). You will see a page
     like this:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image01.png)
+![HOTOSM Page](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image01.png)
 
 -   Click “Log in using your OpenStreetMap account \>\>”
 -   Here you are agreeing to allow this application some access to your
     OpenStreetMap account.  Click “Save Changes.”
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image04.png)
+![Authorization to access acount](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image04.png)
 
 -   Now you will see the current list of projects.  These are different
     places that people are coordinating to map.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image06.png)
+![Current list of tasks](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image06.png)
 
 -   Click on one of the projects to see more information about it.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image03.png)
+![Task's Information](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image03.png)
 
 -   This page shows you everything you need to know about the project.
      On the left side of the page is the description of mapping
@@ -53,7 +53,7 @@ To see how the tasking manager works, let’s take a closer look.
     information about how collaborators are meant to help map.  By
     clicking on “Task,” you can take a grid square to work on yourself.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image07.png)
+![Take a task](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image07.png)
     
 -   Here, you see a view of square that you have offered to map.  You
     can automatically open the area up for editing with JOSM, Potlatch
@@ -64,7 +64,7 @@ To see how the tasking manager works, let’s take a closer look.
     on the “Remote Settings” tab and check the box next to “Enable
     remote control.”  Restart JOSM.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image05.png)
+![Enable remote control](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image05.png)
 
 -   Go back to the Tasking Manager and choose JOSM.  If you have JOSM
     open and you correctly enabled the remote control, the grid area of
@@ -76,7 +76,7 @@ To see how the tasking manager works, let’s take a closer look.
     finished this grid square.  If you were unable to complete the task,
     click “Unlock it” to make it available again for other mappers.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image00.png)
+![After taking task](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image00.png)
 
 -   If you are wondering what happens when you finish an area, the grid
     square will turn red on the map to indicate that is done.  Someone

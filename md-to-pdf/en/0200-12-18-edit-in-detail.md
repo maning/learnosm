@@ -31,7 +31,7 @@ JOSM has some additional tools to make it easier to
 draw lines and shapes. These tools are found in the “Tools” menu at the
 top of JOSM.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image12.png)
+![Tools](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image12.png)
 
 In order to apply the functions in this menu, you must first select a
 point, line or shape in the map window. Some of the most useful
@@ -43,7 +43,8 @@ functions are described here:
     point in the middle of the line that you want to split, Select Split
     Way from the Tools menu, and your line should be split in two.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image38.png)
+    ![Split Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image38.png)
+	Split Way
 
 -  **Combine Way:** This does the opposite of *Split Way*. To combine two
     lines into a single line, they must share a single point. To use
@@ -52,13 +53,14 @@ functions are described here:
     keyboard and clicking on each line. When you have selected both
     lines, select *Combine Way* from the Tools menu.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image28.png)
+    ![Combine Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image28.png)
+	Combine Way
 
     > If you are combining roads that have different directions, you
     > might get this warning:
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image15.png)
-
+    ![Combining Roads](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image15.png)
+	Combine Roads
     If the roads are connected and go in the same direction, then choose
     \<\<Reverse and Continue\>\>.
 
@@ -68,26 +70,28 @@ functions are described here:
     way to be one way you do not usually have to worry about altering
     the direction because ways in OSM default to both ways.
 
-     ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image26.png)
+     ![Revers Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image26.png)
+	Revers Way
 
 -  **Simplify Way:** If your line has too many points in it and you’d like
     to make it simpler, this will remove some of the points from a line.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image41.png)
+    ![Simplify Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image41.png)
+	Simplify Way
 
 -  **Create Circle** OR **Align Nodes in Circle:** If you are trying to make a
     circular shape, draw the circle as best you can and then select
     three nodes and the function. It will help arrange your points in a
     circle.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image04.png)
+    ![Create Circle](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image04.png)
 
 -  **Align Nodes in Line:** This function will align a series of points
     into a straight line.  With long lines it is best to select sections
     of the line to straighten.  Be careful as this does have the
     tendency to shift the line a little.
 	
-	![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image17.png)
+	![Align Node in Line](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image17.png)
 
 -  **Orthogonalize Shape:** This function is very useful for drawing
     regular shapes such as buildings. After you draw an area, this
@@ -96,19 +100,21 @@ functions are described here:
     courts, or landuse areas. (Using the Building Plugin, which will be
     explained below, might be easier).
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image45.png)
+    ![Ortogonalize Shape](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image45.png)
+	Ortagonalize Shape
 
 -  **Unglue way:** This tool allows you to detach nodes that are
     connected.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image59.png)
+    ![Unglue way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image59.png)
+	Unique way
 
     > The line and node will not actually appear separate as the last
     > screen shot implies.
 
 ### Plugins
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image25.png)
+![Plugin](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image25.png)
 
 #### **Building Plug-in:**  
 This plug-in is by far one of the most useful
@@ -117,9 +123,11 @@ with 90 degree corners with just three clicks.  First, you trace the
 edge of your building and then you drag out the line to make it a
 polygon.  
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image58.png)
+![Trace edge](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image58.png)
+Trace edge
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image19.png)
+![Making polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image19.png)
+Making polygon
 
 You can also create more complicated buildings by using the merge
 option.  Create your building outline, select all of the polygons (press
@@ -131,9 +139,9 @@ objects.
 Furthermore, you can alter the default settings (size and tagging) under
 *\<\<Edit\>\> and then at the bottom “Set building size”.  
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image07.png)
+![Size and Tagging](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image07.png)
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image11.png)
+![Set building size](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image11.png)
 
 If you are dealing with similar sized buildings, you can change the
 building to a certain dimension, such as 5 x 6 meters (the unit is
@@ -141,9 +149,10 @@ meters).  Even more, if you are mapping similar infrastructure, such as
 townhouses in the same area, then you can edit the tags to be all the
 same under the \<\<Advanced\>\> tab.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image13.png)
+![Building size tab](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image13.png)
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image64.png)
+![Advance settings](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image64.png)
+Advance settings
 
 #### **Utilsplugin2 (More Tools):** 
 This add-on has a few features that may
@@ -154,7 +163,8 @@ be useful for editing.
 Once you have restarted JOSM you will get a tab called \<\<More
 Tools\>\>:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image24.png)
+![utilsplugin2](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image24.png)
+utilsplugin2
 
 These tools have proved to be the most useful:
 
@@ -163,7 +173,8 @@ These tools have proved to be the most useful:
     practice that roads and rivers should always have common nodes where
     they intersect.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image43.png)
+    ![Add nodes at intersection](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image43.png)
+Add nodes at intersection
 
 -  **Copy Tags from Previous Selection:**  This function makes copying tags
     easier.  If you want to create many objects with the same tags,
@@ -175,14 +186,16 @@ These tools have proved to be the most useful:
     and then another untagged object, you will not be able to copy any
     tags.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image05.png)
+    ![Copy Tags](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image05.png)
+	Copy Tags
 
 -  **Add Source Tag:** This tool simplifies adding a source tag.  It
     remembers the source that was specified last and adds it as
     remembered source tag to your objects.   You can insert the source
     with just one click.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image63.png)
+    ![Add source tags](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image63.png)
+	Add source tags
 
 -  **Replace Geometry:** This tool is great if you want to redraw a poorly
     shaped object, but want to keep the history, attributes and ID
@@ -197,7 +210,8 @@ These tools have proved to be the most useful:
 And you also have access to more \<\<Selection\>\>
 tool:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image55.png)
+![Selection](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image55.png)
+Selection
 
 These tools have proved to be the most useful:
 
@@ -208,7 +222,7 @@ These tools have proved to be the most useful:
     select all of the objects-- polygons, ways and relations-- unselect
     the nodes and **tag** appropriately.
 	
-	![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image50.png)
+	![Unselect Nodes](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image50.png)
 
 -  **Select Last Modified Nodes:**  This tool permits you to go back to the
     nodes that you most recently changed.  It is like undo: node style.
@@ -240,7 +254,8 @@ of a relation.  The relation would contain several polygons - and the
 attributes of the building would be attached to the relation, not the
 polygons.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image42.png)
+![Relation](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image42.png)
+Relation
 
 Relations are used to represent anything that requires a collection of
 objects to define.  Other examples are bus routes (a collections of
@@ -261,11 +276,12 @@ To create a relation from these three polygons you need to:
 
 2.  Go to "Tools" and near the bottom "Multi-polygon"
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image49.png)
+    ![Create Multipolygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image49.png)
 
 3. The polygons should automatically be created as a multi-polygon.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image14.png)
+    ![Multi-polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image14.png)
+	Multi-polygon
 
 You will then see your building as a a solid shape with the inner
 polygons represented with gaps. The data behind the relation in this
@@ -273,7 +289,7 @@ example is visible on OpenStreetMap:
 [http://www.openstreetmap.org/browse/relation/2435797](http://www.openstreetmap.org/browse/relation/2435797).
  The building is rendered by Mapnik as in this image:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image00.png)
+![Rendered Building](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image00.png)
 
 [OSM Wiki: Relation: MultiPolygon](http://wiki.openstreetmap.org/wiki/Relation:multipolygon#One_outer_and_one_inner_ring)
 
@@ -285,9 +301,10 @@ covering a much larger area. It can be viewed on the OpenStreetMap site
 here:
 [http://www.openstreetmap.org/browse/relation/1046961](http://www.openstreetmap.org/browse/relation/1046961.).
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image61.png)
+![River multi-polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image61.png)
+River multi-polygon
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image23.png)
+![Building multi-polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image23.png)
 
 This river contains ten ways that are connected like a long polygon.  
 
@@ -301,9 +318,9 @@ line with multiple members, these can be tagged as such. Additional
 features, such as bus stops represented by separate nodes can also be
 tagged as relation members.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image27.png)
+![Linestring 1](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image27.png)
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image37.png)
+![Linestring 2](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image37.png)
 
 1.  Make sure that all of the ways in which the route runs along are
     appropriately tagged.  For example, highway=footway.
@@ -320,11 +337,12 @@ tagged as relation members.
     main route that a bus takes, while route is a variant path of the
     bus.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image54.png)
+    ![Route](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image54.png)
 
 4.  Fill in the corresponding information about the bus route.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image60.png)
+    ![Bus Route](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image60.png)
+	Bus Route
 
 Relations are difficult to understand and do not have to be used often,
 but they are necessary to know about.  As you get more developed with
@@ -345,9 +363,9 @@ because no one likes a road that leads directly into a wall!  If you
 want to disentangle two or more objects that share the same node, select
 the node and press \<\<G\>\>.  
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image32.png) 
+![Wrong connection](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image32.png) 
 
- ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image62.png)
+ ![Correct connection](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image62.png)
 
 ### *But, Some Objects Should Connect*
 
@@ -356,7 +374,7 @@ However, **some objects SHOULD connect!**  Road intersections should
 then the computer has no way of knowing that the roads actually connect
 to each other.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image20.png)
+![Objects shoul connect](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image20.png)
 
 ### *Overlapping Objects*
 
@@ -374,9 +392,9 @@ you also might want to create a polygon around the entire school yard.
 follow here is to make sure that the buildings are completely inside the
 landuse polygon.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image46.png) 
+![Polygon to overlap](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image46.png) 
 
- ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image18.png)
+ ![Polygon to overlap](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image18.png)
 
 We all make mistakes, and as you map more you will make less mistakes!
  Just remember that even if you upload data that contains mistakes, it
@@ -394,14 +412,14 @@ your roads and objects as clearly and rigid as possible.
 
 ^[[a]](#cmnt1)^
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image57.png)
+![Tracing correctly](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image57.png)
 
 We will end this chapter with this gift:
 
 -  ROTATE OBJECT: If you hold the SHIFT + CTRL and drag your mouse
     click, you can rotate the selected objects.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image31.png)
+    ![Rotate object](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image31.png)
 
 
 ## Summary
@@ -460,7 +478,7 @@ advancing to other ways.  If some ways are already selected, we only use
 them to advance selection.  If only ways are selected, its nodes are
 selected instead.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image52.png)
+![Adjacent nodes](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image52.png)
 
 Example of usage: select one node (and possibly its way), press E (3
 nodes are selected now), press L to put the node on straight line.
@@ -470,7 +488,7 @@ nodes are selected now), press L to put the node on straight line.
 If some ways or nodes are selected,
 selects adjacent ways (non-recursively).
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image33.png)
+![adjacent ways](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image33.png)
 
 #### Select all connected ways (Crtl-Shift-E):
 
@@ -478,7 +496,7 @@ If some ways or nodes are
 selected, selects adjacent ways recursively (as a result, all connected
 ways are selected).
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image51.png)
+![connected ways](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image51.png)
 
 #### Select intersecting ways (I):
 
@@ -486,7 +504,7 @@ If some ways are selected, adds
 intersecting ways to selection. Useful with function **Add nodes at
 intersections.**
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image39.png)
+![intersecting ways](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image39.png)
 
 #### Select all intersecting ways (Crtl-Shift-I):
 
@@ -494,7 +512,7 @@ If some ways are
 selected, selects all adjacent and intersecting ways recursively. Useful
 for selecting parts of the building to join.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image16.png)
+![intersecting ways](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image16.png)
 
 ### Relation Details
 
@@ -517,21 +535,21 @@ polygons you need to:
 
 2.  Click \<\<Presets\>\> \<\<Relations\>\> \<\<Multipolygon\>\>.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image56.png)
+    ![Relations](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image56.png)
 
 3.  Click “New relation”
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image35.png)
+    ![New relations](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image35.png)
 
 4.  You will then be presented with the relation properties window:
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image02.png)
+    ![relation properties](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image02.png)
 
     There is a large amount of data presented here, but most of it can be
     ignored for now. The important aspects in this window are the tag lines
     on top.  
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image22.png)
+    ![ Large amount of Data presented](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image22.png)
 
 5.  In these tag lines on top, in the Key/Value table, add the tags for
     the relation. The actual ways do not need to be tagged unless there is
@@ -544,7 +562,7 @@ polygons you need to:
     the multipolygon.  Select the ways that are the courtyards and mark them
     as the two inners and the building line with the outer role:
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image44.png)
+    ![Roles with relations](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image44.png)
 
 7.  Click “OK” and the box will close. You will then see your building
     as a a solid shape with the inner polygons represented with gaps. The
@@ -552,7 +570,7 @@ polygons you need to:
     [http://www.openstreetmap.org/browse/relation/2435797](http://www.openstreetmap.org/browse/relation/2435797).
     The building is rendered by Mapnik as in this image:
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image00.png)
+    ![Rendered building](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image00.png)
 
 [OSM Wiki: Relation: MultiPolygon](http://wiki.openstreetmap.org/wiki/Relation:multipolygon#One_outer_and_one_inner_ring)
 
@@ -570,7 +588,7 @@ members play in a relation will be forward, backward or stop.  Stop
 corresponds to where there is a bus stop and forward/backward correspond
 to the direction the bus goes along the road.  
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image48.png)
+![Bus station relation](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image48.png)
 
 1.  Make sure that all of the ways in which the route runs along are
     appropriately tagged.  For example, highway=footway.

@@ -39,7 +39,7 @@ chapters:
 Mirrored Download
 -----------------
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m2c477766_en.png)
+![Mirrored Download](/home/dianne/Development/git/learnosm/images/plugins_html_m2c477766_en.png)
 
 __Mirrored Download__ will make downloading OSM
 data for editing faster. Instead of getting the data from the central
@@ -49,7 +49,7 @@ replica of the data but in a location that is faster to access it.
 Once the plugin is installed (and you have restarted JOSM), you will see
 another new entry on the File Menu, “Download from OSM mirror...”
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_1f3d8d84_en.png)
+![Downloading OSM Mirror](/home/dianne/Development/git/learnosm/images/plugins_html_1f3d8d84_en.png)
 
 Downloading data is exactly the same process you learned before, but it
 can be much faster!
@@ -57,18 +57,18 @@ can be much faster!
 Direct Upload
 -------------
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m37f530e4_en.png)
+![Direct Upload](/home/dianne/Development/git/learnosm/images/plugins_html_m37f530e4_en.png)
 
 __DirectUpload__ uploads GPX tracks directly to OSM
 through JOSM (more information is available in the **Appendix**). Once
 the plug-in is installed (and you have restarted JOSM), you will see
 anew “Upload traces” item under the “Tools” Menu.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m53ca88fd_en.png)
+![Upload Traces](/home/dianne/Development/git/learnosm/images/plugins_html_m53ca88fd_en.png)
 
 When you click on the “Upload Traces” button this window will pop up:
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_2e01a9a7_en.png)
+![Window for Upload Traces](/home/dianne/Development/git/learnosm/images/plugins_html_2e01a9a7_en.png)
 
 Put keywords (seperated by commas without spaces) that relate to your
 GPS trace in the \<\<Tags (comma delimited)\>\> box. For example,
@@ -88,7 +88,7 @@ about this plug-in and GPS uploads is available in the [Appendix](/learnosm/en/)
 edit gpx
 --------
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m1d1170b2_en.png).
+![Edit GPX](/home/dianne/Development/git/learnosm/images/plugins_html_m1d1170b2_en.png).
 
 **EditGpx** allows you to prepare recorded GPX tracks
 before uploading them to OSM. Often tracks have parts that you would
@@ -96,26 +96,28 @@ like to remove. Therefore, this plug-in delete points of tracks in a
 speedy manner and creates anonymity for timestamps of a track.
 
 Once the plug-in is installed (and you have restarted JOSM), you will
-see this new tool ![](/home/dianne/Development/git/learnosm/images/plugins_html_42e55708_en.png) in the tool bar on
-the left.
+see this new tool in the tool bar on the left.
+
+![New Tool](/home/dianne/Development/git/learnosm/images/plugins_html_42e55708_en.png) 
 
 1. Open a GPX file in JOSM
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_3fabdc1a_en.png).
+![Open a GPX file in JOSM](/home/dianne/Development/git/learnosm/images/plugins_html_3fabdc1a_en.png)
 
 2. Press the new button 
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_42e55708_en.png)
+![New Button](/home/dianne/Development/git/learnosm/images/plugins_html_42e55708_en.png)
+
 in the left menu bar and the GPX data will be imported to a new EditGpx layer. Every
 node of the track will be highlighted in yellow.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m3f86e83d_en.png).
+![EditGpx Layer](/home/dianne/Development/git/learnosm/images/plugins_html_m3f86e83d_en.png)
 
 3. Now mark the points (by clicking) or areas (by drawing a rectangle on
 their extent) that you would like to delete. The yellow highlighting
 should disappear.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m7e01ae1f_en.png).
+![Removed yellow highlight](/home/dianne/Development/git/learnosm/images/plugins_html_m7e01ae1f_en.png)
 
 4. Right click on the layer name and choose \<\<Convert to GPX layer\>\> in
 the \<\<Context\>\> menu.
@@ -127,7 +129,7 @@ plugin [http://josm.openstreetmap.de/wiki/Plugins](http://josm.openstreetmap.de/
 Print
 -----
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m66e7a0a9_en.png).
+![Print Plugin](/home/dianne/Development/git/learnosm/images/plugins_html_m66e7a0a9_en.png)
 
 If you want a quick an easy way to print a map while you are editing in
 JOSM, install the __print plugin__. Although you won’t be able to
@@ -135,11 +137,12 @@ do anything stylistic with your printout, this is a good way for a quick
 and easy print. Once the plugin is installed, a new item will be
 available on the File menu called “Print...”
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_mbd3c18f_en.png).
+![Print...](/home/dianne/Development/git/learnosm/images/plugins_html_mbd3c18f_en.png)
 
 Clicking this will open the Print Dialog, which looks like this:
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_49f16afc_en.png).
+![Print Dialog](/home/dianne/Development/git/learnosm/images/plugins_html_49f16afc_en.png)
+
 
 Here you can change your printer settings. If you don’t see anything on
 the page, check the box next to “Map Preview” on the right. Zoom in or
@@ -156,7 +159,7 @@ Preferences menu has a short description of each plugin, and you can
 open a web page with more information by clicking on the “More info...”
 link next to each.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_17ea8a4b_en.png).
+![More Info](/home/dianne/Development/git/learnosm/images/plugins_html_17ea8a4b_en.png)
 
 Good luck!
 
@@ -166,7 +169,7 @@ Appendix
 DirectUpload Details
 --------------------
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m7e14a056_en.png)
+![Direct Upload Details](/home/dianne/Development/git/learnosm/images/plugins_html_m7e14a056_en.png)
 
 Adding your GPS tracks and waypoints to the OSM Server is useful for
 many reasons.
@@ -218,7 +221,7 @@ private, trackable, public or identifable.
     listings. Trackpoints will be available in timeline order through
     the public GPS API **without timestamps**.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_2009cd0_en.png)
+![GPS API without timestamps](/home/dianne/Development/git/learnosm/images/plugins_html_2009cd0_en.png)
 
 Uploading GPS Traces Online
 ---------------------------
@@ -228,7 +231,7 @@ to [http://www.openstreetmap.org/](http://www.openstreetmap.org/) and log in.
 
 2. Select \<\<GPS Traces\>\> found on the left banner.
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_32e7d3be_en.png)
+![GPS Traces](/home/dianne/Development/git/learnosm/images/plugins_html_32e7d3be_en.png)
 
 3. Select
 [upload a trace](http://www.openstreetmap.org/trace/create).
@@ -240,7 +243,7 @@ If you have many .gpx files you can compress them into a zip archive and
 upload it. It will be treated as one large gpx file and only one entry
 on the trace list will be created. 
 
-![](/home/dianne/Development/git/learnosm/images/plugins_html_m63dc490_en.png).
+![Epload GPS](/home/dianne/Development/git/learnosm/images/plugins_html_m63dc490_en.png)
 
 5. Click *Upload*.
 

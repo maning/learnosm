@@ -19,7 +19,7 @@ work together to map an area in an organized way.
 Drawing your maps correctly for the first time will save you a lot of time
 later on!
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image10.png)
+![Upload Window](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image10.png)
 
 *This warning claims that there is suspicious data in your edits and that
 you should review the specific errors, warnings and possible false
@@ -53,21 +53,20 @@ Let’s see how to use the validation tool:
 2.  If you don’t see the “Validation Results” window in the right panel,
     click on the blue checkmark on the left to show it.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image15.png)
+    ![Validation result](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image15.png)
 
 3.  Ensure that nothing on the map is selected. If you run the
     validation tool with anything selected, it will only validate what
     you have selected, and not the whole map.
 4.  Hover your mouse in the validation window and click “Validation.”
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image16.png)
+    ![Validation button](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image16.png)
 
 5.  The map will change and any warnings will be circled in yellow,
     errors in red. In the “Validation Results” window you will see a
     list of warnings and errors, if there are any.
 
-
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image12.png)
+    ![Validation result](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image12.png)
 
 6.  Errors should be fixed always. You can zoom to an error, by
     right clicking on it in the window and selecting “Zoom to Problem.”
@@ -77,7 +76,7 @@ Let’s see how to use the validation tool:
     click the “Fix” button in the window. Many errors, however, need to
     be corrected manually.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image07.png)
+    ![Fix button](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image07.png)
 
 8.  Usually there are many more warnings than errors. By giving you a
     warning, JOSM is telling you that it is probably a mistake, but not
@@ -94,7 +93,7 @@ Let’s see how to use the validation tool:
     polygon. Common examples are buildings where the first node does
     not meet the last node.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image04.png)
+    ![Ways that are not closed](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image04.png)
 
     To fix this, select both nodes and go to Tools -\> Merge Nodes
     to connect them.
@@ -102,7 +101,7 @@ Let’s see how to use the validation tool:
 -   **Crossing Buildings** (Overlapping Buildings) — buildings that overlap
     each other.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image17.png)
+    ![Crossing building](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image17.png)
 
     To fix this, move the nodes of one of the buildings outside of
     the other building.
@@ -111,7 +110,7 @@ Let’s see how to use the validation tool:
     forgets to give it any tags, then it is useless, because it doesn’t
     mean anything.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image05.png)
+    ![Untagged nodes](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image05.png)
 
     To fix this, apply tags to the object to identify it, or delete
     it if it is a mistake.
@@ -121,7 +120,7 @@ Let’s see how to use the validation tool:
     warning is not important, but it helps to find road intersections
     that are supposed to connect but do not.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image01.png)
+    ![End node near another way](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image01.png)
 
 -   Crossing ways- Lines that cross other lines without being connected
     will raise warnings. Many times this is not a problem, because the
@@ -129,7 +128,7 @@ Let’s see how to use the validation tool:
     streets and rivers that cross landuse polygons. It is sometimes
     helpful, however to find errors.
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image14.png)
+    ![Crossing ways](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image14.png)
 
 OpenStreetMap depends on people correcting and editing mistakes.
 Editing and validating data is important for improving maps. If you do

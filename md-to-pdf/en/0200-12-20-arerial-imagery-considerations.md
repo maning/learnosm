@@ -109,9 +109,11 @@ with the reality. It has to be adjusted.
 > middle of the existing lines.
 
 To offset imagery, right-click the imagery layer or menu <<Imagery>>, open
-<<New offset>>, or use the imagery adjust button
-![adjust button][] in left toolbar. Then
-drag the imagery so that it is correctly overlaid by the tracks. Click
+<<New offset>>, or use the imagery adjust button in left toolbar. 
+
+![adjust button][]
+
+Then drag the imagery so that it is correctly overlaid by the tracks. Click
 on another tool when it is over. Note that for some projects people will
 save offset information to the wiki or other sources so that people
 working together on areas can share common values. You can also give the

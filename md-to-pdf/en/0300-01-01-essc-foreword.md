@@ -1,6 +1,5 @@
-
 About this document
-=====================
+===============================
 
 This document is a supplementary material for the 
 "Assisting local governments towards disaster risk reduction: 
@@ -14,7 +13,7 @@ This material is based on the online training guide developed by the
 Humanitariam OSM Team available at: [http://learnosm.org](http://learnosm.org)
 
 About the project
-=========================
+------------------------------------------------------------------
 The Institute of Environmental Science for Social Change [http://essc.org.ph/](http://essc.org.ph/) 
 is a Jesuit research organization in the Philippines that promotes 
 environmental sustainability and social justice through the integration 
@@ -86,7 +85,7 @@ specifically through these strategies:
   and land use plans.
 
 About ESSC 
-=================
+------------------------------
 
 The Institute of Environmental Science for Social Change [http://essc.org.ph/](http://essc.org.ph/) 
 is a Jesuit research organization in the Philippines that promotes environmental 
@@ -130,9 +129,7 @@ those in need.
 
 More information about ESSC: http://www.essc.org.ph
 
-
-License of this document
-============================
+**License of this document**
 
 This document is under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication 
 

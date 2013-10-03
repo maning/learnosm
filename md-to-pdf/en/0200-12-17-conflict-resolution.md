@@ -6,7 +6,7 @@
 Sometimes you are working in JOSM and when you upload all of
 your beautiful edits you get an *evil* message like this:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image05.png)
+![Conflicts detected](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image05.png)
 
 *This message is telling you that uploading did not work because another
 user has uploaded their edits already. It is telling you that you
@@ -20,7 +20,7 @@ to determine which edits to use. Basically, the OSM server has received
 edits that altered the same or similar objects and JOSM does does not
 know which one to use.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image22.png)
+![Conflict warning](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image22.png)
 
 ## Conflicts
 
@@ -38,7 +38,7 @@ know which upload to be saved and used.
 However, JOSM is able to deduce some conflicts and sometimes you
 will encounter an error, such as this one:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image23.png)
+![Resolved conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image23.png)
 
 *This window reveals that JOSM deleted some of your objects that were
 previously deleted.*
@@ -51,18 +51,18 @@ In some conflicts, however, there is no easy action for JOSM to take and
 so it leaves the decision up to the user to determine what the best
 course of action is. Therefore, the conflict needs to be resolved:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image25.png)
+![Determine best action](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image25.png)
 
 *This tells you to look at all of your conflicts in Layer 1 in the **Dialog
 List** box.*
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image18.png)
+![Dialog List](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image18.png)
 
 *This window provides you with a warning as to whether you are likely to
 experience a conflict with your edits. If you check on the server you
 will be able to fix the editing issues that would arise.*
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image27.png)
+![Conflict with own edit](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image27.png)
 
 *This warning tells you that JOSM failed to delete a node due to it still
 being referenced in a way. In order to remedy this, the user has to go
@@ -81,13 +81,13 @@ main server about all of the edits and objects. This option is only
 really necessary if you have a mess of conflicts and edits. It is quite
 cumbersome and at times confusing. 
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image11.png)
+![Resolving Conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image11.png)
 
 Next, you will get a pop-up that details your conflict. The error
 message that appears looks complicated, but it is rather simple. You
 will know what type of conflict you have by the symbol
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
+![Point](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
 
 in the top tab. This one refers to the
 properties, such as the location and existence of the object, of the
@@ -101,7 +101,7 @@ object. This is why the coordinates and deleted state are listed.
 
 **Members:** there is a difference in the list of members in a relation
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image09.png)
+![Tab for conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image09.png)
 
 Conflicts only appear with two different edits at a time. If there are
 three or more conflicts, then a chain of conflicts will pop-up.
@@ -112,7 +112,7 @@ Click on the first column, or <<My version>> if you believe that
 your edits are correct. Click on << Their version>> if you think
 that the other edits are better. 
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image06.png)
+![Option for Merging](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image06.png)
 
 Once you have selected which version you think is best, then click
 <<Apply Resolution>>. A few more windows will pop up and you will
@@ -126,14 +126,14 @@ says:
 On your Windows menu you have a **Conflict List
 Dialog**
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image26.png)
+![Conflict List Dialog](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image26.png)
 
 . This window displays a list of
 conflicts. The total number of unresolved conflicts is shown in the
 header. You can select or resolve a conflict by clicking on it. This is
 useful when you have many conflicts to deal with.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image14.png)
+![Unresolved conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image14.png)
 
 You cannot upload your changes until this is empty. 
 
@@ -173,7 +173,7 @@ object has been edited by two people at a similar time.
 If the tags of one version of an objects are different from the tags of
 another version, the Conflict dialog shows a
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
+![Point](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
 
 in the tab Tags. Click on the tab to display a dialog for resolving tag
 conflicts.
@@ -197,24 +197,25 @@ the row with a red background. The value of the first version is
 School". You now have to decide which of these values you want to keep
 and which you want to discard.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image07.png)
+![Tags](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image07.png)
 
 Click on the value you want to keep, in the example for instance on the
-value on the left. If you either double-click on the value or click on
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image21.png), you decide to keep the value and to discard the
+value on the left. If you either double-click on the value or you decide to keep the value and to discard the
 opposite value. The table in the middle now displays the value to keep
 and the background color turns to green.
+
+![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image21.png)
 
 ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image10.png)
 
 When the button **Apply Resolution** is enabled you can apply your decision.
 The values you've chosen will be applied and the dialog will be closed.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image03.png)
+![Apply resolution](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image03.png)
 
 ## Resolving differences in the node list of two versions of a way
 
-If you see the symbol
+If you see this symbol
 
 ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
 
@@ -247,7 +248,7 @@ of three steps:
     list if necessary
 2.  **Freeze** the resulting merged node list by clicking on the button
 
-    ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image16.png)
+    ![Freeze button](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image16.png)
 	
 	. When you freeze the merged node list you
     tell JOSM that all conflicts in the node list are resolved.
@@ -260,7 +261,7 @@ The following example shows the workflow when you decide to keep all nodes in th
 First, select all elements in the leftmost table (either using the mouse or by 
 pressing Ctrl-A in the table) (see next screen shot):
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image04.png)
+![Conflict Resolution Window](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image04.png)
 
 Then, click 
 
@@ -306,7 +307,7 @@ colors are used:
 
 -  The node is in this list only. It isn't present in the opposite list:
 
-   ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image13.png)
+   ![Node list](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image13.png)
 
 -  The node is in both lists, but it is on different positions:
    
