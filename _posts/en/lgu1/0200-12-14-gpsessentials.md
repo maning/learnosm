@@ -9,6 +9,11 @@ category: lgu1
 GPS Essentials
 ============
 
+In this chapter we will see how we can record tracks and waypoints without a GPS Garmin device. We will
+use an application called GPS essentials, a GPS tool that you can get for your mobile device, which allows
+you to record tracks, waypoints, routes, and geotag photos. This chapter will teach you how to download the
+application and use its feature such as marking a waypoint, recording tracks and geotagging photos.
+
 Installation of GPS Essentials
 -------------
 
@@ -20,7 +25,7 @@ Installation of GPS Essentials
    ![GPSElogo][]
 
 If you don't have access to Google Play or if you want to download versions other than the stable release
-such as older versions or the latest beta, you can download GPS Essentials from http://www.images.com.
+such as older versions or the latest beta, you can download GPS Essentials from http://www.gpsessentials.com.
 
 Configure GPS Essentials to Work Offline
 -------------
