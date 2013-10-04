@@ -12,7 +12,7 @@ allows you to use Field Papers. There are many different plugins
 available in JOSM and we will cover some of the most useful ones
 in this chapter.
 
-![plug](/home/dianne/Development/git/learnosm/images/plugins_html_m76fc73bd_en.png)
+![Plug](/home/dianne/Development/git/learnosm/images/plugins_html_m76fc73bd_en.png)
 
 Any time you want to install a new plugin, go to Edit --\> Preferences
 and click on the “Plugins” tab. If you don’t see a list of available

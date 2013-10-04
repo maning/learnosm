@@ -70,8 +70,8 @@ functions are described here:
     way to be one way you do not usually have to worry about altering
     the direction because ways in OSM default to both ways.
 
-     ![Revers Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image26.png)
-	Revers Way
+     ![Reverse Way](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image26.png)
+	Reverse Way
 
 -  **Simplify Way:** If your line has too many points in it and you’d like
     to make it simpler, this will remove some of the points from a line.
@@ -101,7 +101,6 @@ functions are described here:
     explained below, might be easier).
 
     ![Ortogonalize Shape](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image45.png)
-	Ortagonalize Shape
 
 -  **Unglue way:** This tool allows you to detach nodes that are
     connected.  
@@ -132,7 +131,7 @@ option.  Create your building outline, select all of the polygons (press
 SHIFT to highlight them all) and then hit SHIFT + J to merge the
 objects.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image03.png)
+![Merge](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image03.png)
 
 Furthermore, you can alter the default settings (size and tagging) under
 *\<\<Edit\>\> and then at the bottom “Set building size”.  
@@ -155,13 +154,13 @@ same under the \<\<Advanced\>\> tab.
 This add-on has a few features that may
 be useful for editing.  
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image47.png)
+![Utils plugin 1](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image47.png)
 
 Once you have restarted JOSM you will get a tab called \<\<More
 Tools\>\>:
 
-![utilsplugin2](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image24.png)
-utilsplugin2
+![Utils plugin 2](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image24.png)
+Utils plugin 2
 
 These tools have proved to be the most useful:
 
@@ -252,7 +251,6 @@ attributes of the building would be attached to the relation, not the
 polygons.
 
 ![Relation](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image42.png)
-Relation
 
 Relations are used to represent anything that requires a collection of
 objects to define.  Other examples are bus routes (a collections of
@@ -299,7 +297,6 @@ here:
 [http://www.openstreetmap.org/browse/relation/1046961](http://www.openstreetmap.org/browse/relation/1046961.).
 
 ![River multi-polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image61.png)
-River multi-polygon
 
 ![Building multi-polygon](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image23.png)
 
@@ -338,7 +335,7 @@ tagged as relation members.
 
 4.  Fill in the corresponding information about the bus route.  
 
-    ![Bus Route](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image60.png)
+    ![Creating Route](/home/dianne/Development/git/learnosm/images/intermediate/en_edit_in_detail_image60.png)
 
 Relations are difficult to understand and do not have to be used often,
 but they are necessary to know about.  As you get more developed with

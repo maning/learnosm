@@ -12,6 +12,16 @@ for Disaster Reduction and Recovery (WB-GFDRR).
 This material is based on the online training guide developed by the
 Humanitariam OSM Team available at: [http://learnosm.org](http://learnosm.org)
 
+License of this document
+-----------------------------------
+
+This document is under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication 
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, 
+all without asking permission. 
+
+A copy of the license is included at the end of this document.
+
 About the project
 ------------------------------------------------------------------
 The Institute of Environmental Science for Social Change [http://essc.org.ph/](http://essc.org.ph/) 
@@ -84,16 +94,15 @@ specifically through these strategies:
   potential in assisting local governments design their contingency 
   and land use plans.
 
-About ESSC 
-------------------------------
+**About ESSC**
 
 The Institute of Environmental Science for Social Change [http://essc.org.ph/](http://essc.org.ph/) 
 is a Jesuit research organization in the Philippines that promotes environmental 
 sustainability and social justice through the integration of scientific methodologies 
 and social processes. 
 
-Integration with the institutional work program on risk resilience
-------------------------------------------------------------------------
+
+**Integration with the institutional work program on risk resilience**
 
 This effort is a critical contribution to the institutional work program of the 
 Environmental Science for Social Change on risk resilience that is undertaken 
@@ -127,13 +136,4 @@ capacities in resource mapping, geomatics, landscape and watershed analysis,
 social analysis, and communications, thus ensuring that we are of service to 
 those in need.
 
-More information about ESSC: http://www.essc.org.ph
-
-**License of this document**
-
-This document is under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication 
-
-You can copy, modify, distribute and perform the work, even for commercial purposes, 
-all without asking permission. 
-
-A copy of the license is included at the end of this document.
+More information about ESSC: [http://www.essc.org.ph](http://www.essc.org.ph)

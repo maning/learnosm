@@ -121,7 +121,7 @@ be on your way toward being able to upload your edits.
 Do some more editing. Then click ‘Upload’. You will get a pop-up that
 says:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image28.png)
+![Command Stack](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image28.png)
 
 On your Windows menu you have a **Conflict List
 Dialog**
@@ -204,9 +204,9 @@ value on the left. If you either double-click on the value or you decide to keep
 opposite value. The table in the middle now displays the value to keep
 and the background color turns to green.
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image21.png)
+![Merge](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image21.png)
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image10.png)
+![Tag conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image10.png)
 
 When the button **Apply Resolution** is enabled you can apply your decision.
 The values you've chosen will be applied and the dialog will be closed.
@@ -235,7 +235,7 @@ Initially, the middle table is empty. You should now decide which nodes
 to keep from the local dataset (the leftmost table) and which from the
 server dataset (the rightmost table).
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image24.png)
+![Nodes conflicts](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image24.png)
 
 ## The standard workflow
 
@@ -265,15 +265,15 @@ pressing Ctrl-A in the table) (see next screen shot):
 
 Then, click 
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image19.png)
+![Merge](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image19.png)
 
 to copy the selected nodes to the middle table with the merged nodes:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image01.png)
+![Nodes tab with conflics](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image01.png)
 
 Finally, click
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image16.png)
+![Freeze](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image16.png)
 
 to freeze the resulting merged node list:
 

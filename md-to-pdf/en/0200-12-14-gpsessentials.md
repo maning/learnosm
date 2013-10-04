@@ -24,9 +24,8 @@ Configure GPS Essentials to Work Offline
 -------------
 
 1. Open GPS Essentials. Go to Settings and select Map Cache. Move the cache limit to maximum.
-
-   ![MapCache][]
-	Map Cache
+ 
+  ![MapCache][]
 
 2. Find a strong network connection. From main screen, select 'Portable Maps'. Every map you view in portable
 map mode automatically saves to the Android's memory. Save maps you will need offline in as much detail as
@@ -41,7 +40,7 @@ GPS feature on Android phone
 Before using the GPS Essentials Application, make sure the GPS in your Android phone is enabled.
 
 ![GPSfeature][]
-GPS Feature
+
 
 Acquiring Satellites
 -------------
@@ -55,7 +54,6 @@ To check the satellites in your area:
 1. From the main menu, select Satellites.
 
    ![Satellites][]
-Satellites
 
 2. If there are at least 4 satellites used in fix, then you may start using the GPS Essentials features.
 
@@ -68,7 +66,6 @@ Creating Tracks
 available.
 
    ![Tracks1][]
-Tracks 1
 
 3. Select Pause button to pause recording. If you want to continue recording, press it again.
 
@@ -82,7 +79,6 @@ Creating Waypoints
 2. Tap and hold on the map to create a new cursor.
 
    ![Waypoints1][]
-Waypoints 1
 
 3. Drag the cursor onto the location where you want the new waypoint.
 
@@ -93,7 +89,6 @@ Waypoints 1
 5. Select the Add Tool to create the waypoint.
 	
    ![Waypoints2][]
-Waypoints 2	
 
 ### Using Google Maps
 
@@ -106,7 +101,6 @@ Waypoints 2
    Waypoint button again.
 
    ![GoogleMaps][]
-Google Maps
 
 4. Repeat steps b and c until you are finished recording your desired waypoints.
 
@@ -117,25 +111,20 @@ Google Maps
 2. Select the Add tool to create the waypoint.
 
    ![Waypointspage1][]
-Waypoints Page 1
 
 3. It will start recording your 1st waypoint. You may change the attributes of the waypoint
    and then press Back to get back to the list.
 	
    ![Waypointspage2][]
-Waypoints Page 2
 
 4. When you select the Map pane, you will see where your waypoint is located on the map.
 	
    ![Waypointspage3][]
-Waypoints Page 3
 
 5. Select Close icon to save your waypoint. The Close icon looks like this:
 	
    ![Close][]
 
-
-	
 Geotagging Photos
 -------------
 
@@ -169,16 +158,14 @@ a single waypoint, select the desired waypoint, click the Options button and sel
 For now, click KML (Google Earth).
 
    ![Export1][]
-Export 1
 
 4. Select the SD card icon to manually select your desired location of the file.
 
    ![Export2][]
-Export 2
 
 5. Click this icon to Save.
 
-   ![Arrow][]
+   ![Save Button][]
 
 Exporting/Saving Tracks
 -------------
@@ -196,16 +183,14 @@ Exporting/Saving Tracks
    For now, click KML (Google Earth).
 
    ![Export1][]
-Export 1
 
 5. Select the SD card icon to manually select your desired location of the file.
 
    ![Export3][]
-Export 3
 
 6. Click this icon to Save.
 
-   ![Arrow][]
+   ![Save Button][]
 
 [GPSElogo]: /home/dianne/Development/git/learnosm/images/Logo.png
 [MapCache]: /home/dianne/Development/git/learnosm/images/mapcache.png
@@ -222,6 +207,6 @@ Export 3
 [Close]: /home/dianne/Development/git/learnosm/images/save.png
 [Export1]: /home/dianne/Development/git/learnosm/images/export.png
 [Export2]: /home/dianne/Development/git/learnosm/images/exportwaypoints.png
-[Arrow]: /home/dianne/Development/git/learnosm/images/savebutton.png
+[Save Button]: /home/dianne/Development/git/learnosm/images/savebutton.png
 [Footprints]: /home/dianne/Development/git/learnosm/images/tracksicon.png
 [Export3]: /home/dianne/Development/git/learnosm/images/sdcardsave.png

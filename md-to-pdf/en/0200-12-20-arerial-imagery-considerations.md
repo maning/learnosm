@@ -28,7 +28,7 @@ aspects that must be considered when tracing from imagery:
     resolution under “1 meter”, which means each pixel of the imagery
     represents a one meter squared. That is pretty good!
 
-    ![puzzle][]
+    ![Puzzle][]
 
 -   **Georeference:** Georeference is a term for how closely the imagery’s pixels match the
     actual locations on the ground. This matching is a relatively complex process,
@@ -76,7 +76,7 @@ Sometimes after downloading OSM data, adding the imagery, and zooming
 into the best resolution, you realize that the existing OSM data,
 especially roads, does not correctly overlay the imagery objects.
 
-![existing data][]
+![Existing data][]
 
 Many OSM beginners believe that the roads have been traced incorrectly
 and thus move the roads to what appear to be the better location. Moving
@@ -89,13 +89,13 @@ other people's-- more information on how to do this can be found in
 [Adding](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[GPS](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[Data](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[to](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[OSM](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit)[server](https://docs.google.com/a/engelsted.co/document/d/1jjlthSuc9yltWxQDKxeQD4OO9LvH_DaGwEsdlxSE6l8/edit))
 to the area you are tracing. Click on
 
-![download][] 
+![Download][] 
 
 then tick <<Raw GPS
 data>> near the top in the <<Download>> window. After downloading, an
 additional layer <<Downloaded GPX data>> will appear.
 
-![downloaded GPX][]
+![Downloaded GPX][]
 
 In this example, with the GPS tracks (in red) added you can see that the
 existing objects (here: the roads) are positioned correctly. The imagery is
@@ -111,7 +111,7 @@ with the reality. It has to be adjusted.
 To offset imagery, right-click the imagery layer or menu <<Imagery>>, open
 <<New offset>>, or use the imagery adjust button in left toolbar. 
 
-![adjust button][]
+![Adjust button][]
 
 Then drag the imagery so that it is correctly overlaid by the tracks. Click
 on another tool when it is over. Note that for some projects people will
@@ -121,15 +121,15 @@ offset a “Bookmark name” if you need to use it again in the future. This
 offset is saved in a new “Imagery offset” menu available from the
 imagery drop-down.
 
-![adjust window][]
+![Adjust window][]
 
-![downloaded GPX][]
+![Downloaded GPX][]
 
 Now that the imagery is adjusted you can trace over it. While mapping
 you can hide the layer <<Downloaded GPX data>> if it interferes with your
 work.
 
-![adding to existing data][]
+![Adding to existing data][]
 
 One last thing to remember: the offset might not be the same over the full
 extent of the imagery! This is especially true in regions with a marked
@@ -143,7 +143,7 @@ It may happen that you are the first one to OSM map an area, e.g. in
 remote rural areas or in developing countries. Therefore, neither
 existing OSM data nor GPS tracks can be downloaded.
 
-![no data][]
+![No data][]
 
 How can you deal with this since you do not have any reference to
 control the offset of the imagery? There are two ways around this:
@@ -160,7 +160,7 @@ control the offset of the imagery? There are two ways around this:
     another one, using transparency is the easiest way. To do this,
     simply click the gradient line and change the opacity of the layer.
 
-    ![change opacity][]
+    ![Change opacity][]
 
 Usually administration imagery has poor resolution, over ten meters of
 resolution, and so might be worse than the previous image.
@@ -180,12 +180,12 @@ Whether it be through poor resolution or poorly georeferenced imagery,
 there are ways you can deal with inaccurate imagery. They mainly involve
 referencing imagery with GPS traces and tracks.
 
-[puzzle]: /home/dianne/Development/git/learnosm/images/offset_puzzle.png
-[existing data]: /home/dianne/Development/git/learnosm/images/offset_existing_data_en.png
-[download]: /home/dianne/Development/git/learnosm/images/offset_tool_download_en.png
-[downloaded GPX]: /home/dianne/Development/git/learnosm/images/offset_downloaded_gpx_en.png
-[adjust button]: /home/dianne/Development/git/learnosm/images/offset_tool_adjust_en.png
-[adjust window]: /home/dianne/Development/git/learnosm/images/offset_adjust_window_en.png
-[adding to existing data]: /home/dianne/Development/git/learnosm/images/offset_add_to_data_en.png
-[no data]: /home/dianne/Development/git/learnosm/images/offset_no_data_en.png
-[change opacity]: /home/dianne/Development/git/learnosm/images/offset_change_opacity_en.png
+[Puzzle]: /home/dianne/Development/git/learnosm/images/offset_puzzle.png
+[Existing data]: /home/dianne/Development/git/learnosm/images/offset_existing_data_en.png
+[Download]: /home/dianne/Development/git/learnosm/images/offset_tool_download_en.png
+[Downloaded GPX]: /home/dianne/Development/git/learnosm/images/offset_downloaded_gpx_en.png
+[Adjust button]: /home/dianne/Development/git/learnosm/images/offset_tool_adjust_en.png
+[Adjust window]: /home/dianne/Development/git/learnosm/images/offset_adjust_window_en.png
+[Adding to existing data]: /home/dianne/Development/git/learnosm/images/offset_add_to_data_en.png
+[No data]: /home/dianne/Development/git/learnosm/images/offset_no_data_en.png
+[Change opacity]: /home/dianne/Development/git/learnosm/images/offset_change_opacity_en.png

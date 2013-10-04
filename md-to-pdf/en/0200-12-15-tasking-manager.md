@@ -36,7 +36,7 @@ To see how the tasking manager works, let’s take a closer look.
 -   Now you will see the current list of projects.  These are different
     places that people are coordinating to map.
 
-![Current list of tasks](/home/dianne/Development/git/learnosm/images/intermediate/en_int_ch5_image06.png)
+![Current list of tasks](/home/dianne/Development/git/learnosm/images/en_int_ch5_image06.png)
 
 -   Click on one of the projects to see more information about it.
 
