@@ -166,8 +166,8 @@ editor and align it with the map.
 1. Before you can load any picture from your database, you have to load
 a map layer from the server.
 
-2. From the Menu "Pic Layer", it offers you two ways of loading a
-data:
+2. From the "Imagery" menu, either choose "New picture layer from file"
+or "New picture layer from clipboard".
 
    ![]({{site.baseurl}}/images/PicLayer menu.png)
 
