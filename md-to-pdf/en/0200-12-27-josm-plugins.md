@@ -28,6 +28,7 @@ Recommended Plug-ins:
 - [Direct Upload](#direct-upload) (allow you to upload GPS tracks)]
 - [Editgpx](#edit-gpx) (allows you to edit GPX files)]
 - [Print](#print)
+- [PicLayer](#piclayer) (allows you to display any picture as a background in the editor)
 
 We also recommend downloading these plug-ins, which are covered in other
 chapters:
@@ -85,7 +86,7 @@ Once successfully uploaded, the Text area will display an "OK" status
 and the “Upload Trace” button will not be clickable. More information
 about this plug-in and GPS uploads is available in the [Appendix](/learnosm/en/).
 
-edit gpx
+Edit gpx
 --------
 
 ![Edit GPX](/home/dianne/Development/git/learnosm/images/plugins_html_m1d1170b2_en.png).
@@ -149,6 +150,51 @@ the page, check the box next to “Map Preview” on the right. Zoom in or
 out on the map by changing the number in the “Scale” box. Increase the
 resolution by changing the number next to “ppi”. When you have finished
 editing the settings, click “Print.”
+
+
+PicLayer
+-----
+
+![Pic Layer](/home/dianne/Development/git/learnosm/images/PicLayer_plugin.png)
+
+**PicLayer** allows you to display any picture as a background in the
+editor and align it with the map.
+
+1. Before you can load any picture from your database, you have to load
+a map layer from the server.
+
+2. From the Menu "Pic Layer", it offers you two ways of loading a
+data:
+
+   ![Menu](/home/dianne/Development/git/learnosm/images/PicLayer_menu.png)
+
+   a. If you choose a file, a file selector will pop-up. Select the image
+   you want.
+
+   b. If you choose a clipboard, the image will be automatically displayed
+   as a background.
+
+3. Once the image is visible, you may start positioning it. Select the
+PicsLayer in the layers list and activate it.
+
+   ![Layer list](/home/dianne/Development/git/learnosm/images/Layers_list.png)
+
+4. Start aligning the image.
+
+   a. Move the image by choosing 'Move' from the toolbar and dragging the mouse
+   around with left button pressed.
+
+   ![Moving image](/home/dianne/Development/git/learnosm/images/Move.png)
+
+   b. Rotate the image by choosing 'Rotate' from the toolbar and dragging the
+   mouse up/down with left button pressed.
+
+   ![Rotating image](/home/dianne/Development/git/learnosm/images/Rotate.png)
+
+   c. Scale the image by choosing 'Scale' from the toolbar and dragging the mouse
+   up/down with left button pressed.
+
+   ![Scale](/home/dianne/Development/git/learnosm/images/Scale.png)
 
 Summary
 -------
