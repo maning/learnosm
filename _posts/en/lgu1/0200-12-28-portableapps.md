@@ -14,3 +14,21 @@ can be stored on a portable storage device like USB flash disk, portable hard dr
 or even iPod. You can access the software and other personal data that are
 stored on the device by plugging it on a PC or laptop. When you unplug the
 device, none of your personal data will be left behind.
+
+Using the PortableApps Platform
+-------------
+
+1. Open your portable flash disk. To start up the PortableApps platform,
+Double click Start.exe.
+
+![]({{site.baseurl}}/images/StartPortableApps.png)
+
+2. The PortableApps menu will appear. The following applications that appear
+on the left side are the applications that you may start using.
+
+![]({{site.baseurl}}/images/PortableAppsmenu.png)
+
+3. Once you're done, exit all portable applications then you may close
+the PortableApps menu by simply clicking the Eject button.
+
+![]({{site.baseurl}}/images/EjectPortableApps.png)
