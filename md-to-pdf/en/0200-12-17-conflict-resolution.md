@@ -87,7 +87,7 @@ Next, you will get a pop-up that details your conflict. The error
 message that appears looks complicated, but it is rather simple. You
 will know what type of conflict you have by the symbol
 
-![Point](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
+![Symbol](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
 
 in the top tab. This one refers to the
 properties, such as the location and existence of the object, of the
@@ -173,7 +173,7 @@ object has been edited by two people at a similar time.
 If the tags of one version of an objects are different from the tags of
 another version, the Conflict dialog shows a
 
-![Point](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
+![Symbol](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image08.png)
 
 in the tab Tags. Click on the tab to display a dialog for resolving tag
 conflicts.
@@ -221,7 +221,7 @@ If you see this symbol
 
 in the tab **Nodes** then you
 have to resolve differences in the list of
-[nodes](http://josm.openstreetmap.de/wiki/Help/Concepts/Object)of two
+[nodes](http://josm.openstreetmap.de/wiki/Help/Concepts/Object) of two
 [ways](http://josm.openstreetmap.de/wiki/Help/Concepts/Object). There
 are three columns in the respective panel (see screen shot below):
 
@@ -279,13 +279,10 @@ to freeze the resulting merged node list:
 
 ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image20.png)
 
-The symbol in the nodes tab now switched to 
+The symbol in the nodes tab now switched to  and you can apply the merge decisions: ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image00.png)
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image00.png)
-
-and you can apply the merge decisions.
-
-## Support for comparing node lists
+Support for comparing node lists
+-------------------
 
 It can be difficult to find the differences between the node list of of two object versions, in particular for ways with many nodes.
 
@@ -293,7 +290,7 @@ The Conflict Dialog supports you in finding the differences. It can compare two 
 
 From the following combo box you can select which pair of node lists to compare:
 
-![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image15.png)
+![Combo box for compare list](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image15.png)
 
 -  **My with Their:** compares the leftmost table with the rightmost table
     in the Conflict Dialog
@@ -305,17 +302,13 @@ From the following combo box you can select which pair of node lists to compare:
 Depending on the position of a node in the list different background
 colors are used:
 
--  The node is in this list only. It isn't present in the opposite list:
+-  The node is in this list only. It isn't present in the opposite list: ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image13.png)
 
-   ![Node list](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image13.png)
-
--  The node is in both lists, but it is on different positions:
-   
-   ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image02.png)
+-  The node is in both lists, but it is on different positions: ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image02.png)
 
 -  White background means that a node is in both lists at the same
    position.
 
-   ![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image17.png)
+![](/home/dianne/Development/git/learnosm/images/intermediate/en_conflict_resolution_image17.png)
 
 

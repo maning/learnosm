@@ -155,7 +155,7 @@ editing the settings, click “Print.”
 PicLayer
 -----
 
-![Pic Layer](/home/dianne/Development/git/learnosm/images/PicLayer_plugin.png)
+![PicLayer](/home/dianne/Development/git/learnosm/images/PicLayer_plugin.png)
 
 **PicLayer** allows you to display any picture as a background in the
 editor and align it with the map.
@@ -163,8 +163,8 @@ editor and align it with the map.
 1. Before you can load any picture from your database, you have to load
 a map layer from the server.
 
-2. From the Menu "Pic Layer", it offers you two ways of loading a
-data:
+2. From the "Imagery" menu, either choose "New picture layer from file"
+or "New picture layer from clipboard".
 
    ![Menu](/home/dianne/Development/git/learnosm/images/PicLayer_menu.png)
 
@@ -177,7 +177,7 @@ data:
 3. Once the image is visible, you may start positioning it. Select the
 PicsLayer in the layers list and activate it.
 
-   ![Layer list](/home/dianne/Development/git/learnosm/images/Layers_list.png)
+   ![Layers list](/home/dianne/Development/git/learnosm/images/Layers_list.png)
 
 4. Start aligning the image.
 
@@ -194,7 +194,7 @@ PicsLayer in the layers list and activate it.
    c. Scale the image by choosing 'Scale' from the toolbar and dragging the mouse
    up/down with left button pressed.
 
-   ![Scale](/home/dianne/Development/git/learnosm/images/Scale.png)
+   ![Scaling image](/home/dianne/Development/git/learnosm/images/Scale.png)
 
 Summary
 -------
@@ -289,7 +289,7 @@ If you have many .gpx files you can compress them into a zip archive and
 upload it. It will be treated as one large gpx file and only one entry
 on the trace list will be created. 
 
-![Epload GPS](/home/dianne/Development/git/learnosm/images/plugins_html_m63dc490_en.png)
+![Upload GPS](/home/dianne/Development/git/learnosm/images/plugins_html_m63dc490_en.png)
 
 5. Click *Upload*.
 
