@@ -70,12 +70,9 @@ click “Edit” on the top menu, and then click “Preferences.”
 - We want to be able to use satellite imagery when we are making our
   maps, so let’s add that from the Preferences window. On the left
   side of the Preferences window there are different icons for
-  different settings. Click on the icon that says “WMS TMS”. You may
-  need to click on the down arrow to find it:
-  
-  ![WMS TMS](/home/dianne/Development/git/learnosm/images/start_josm_image07_en.png)
-  
-  ![Click Arrow Down](/home/dianne/Development/git/learnosm/images/start_josm_image02_en.png)
+  different settings. Click on the icon that says “WMS TMS”.  ![WMS TMS](/home/dianne/Development/git/learnosm/images/start_josm_image07_en.png)
+
+- You may need to click on the down arrow to find it: ![Click Arrow Down](/home/dianne/Development/git/learnosm/images/start_josm_image02_en.png)
 
 - Click on “Bing Sat”. Then Click “Activate”.
 
