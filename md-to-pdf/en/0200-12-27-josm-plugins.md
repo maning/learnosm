@@ -202,7 +202,7 @@ Summary
 These are some useful plugins that are available for JOSM. Feel free to
 continue exploring the many other plugins. As you have already seen, the
 Preferences menu has a short description of each plugin, and you can
-open a web page with more information by clicking on the “More info...”
+open a web page with more information by clicking on the “More info...” 
 link next to each.
 
 ![More Info](/home/dianne/Development/git/learnosm/images/plugins_html_17ea8a4b_en.png)
@@ -288,7 +288,6 @@ box, give it some Tags, and chose what type of Visibility it will have.
 If you have many .gpx files you can compress them into a zip archive and
 upload it. It will be treated as one large gpx file and only one entry
 on the trace list will be created. 
-
 ![Upload GPS](/home/dianne/Development/git/learnosm/images/plugins_html_m63dc490_en.png)
 
 5. Click *Upload*.

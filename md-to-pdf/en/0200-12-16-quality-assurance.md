@@ -74,9 +74,7 @@ Let’s see how to use the validation tool:
 7.  Some errors can be automatically fixed, such as “Duplicated nodes”
     errors. You can click on the folder for these types of errors and
     click the “Fix” button in the window. Many errors, however, need to
-    be corrected manually.
-
-    ![Fix button](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image07.png)
+    be corrected manually. ![Fix button](/home/dianne/Development/git/learnosm/images/intermediate/en_quality_assurance_image07.png)
 
 8.  Usually there are many more warnings than errors. By giving you a
     warning, JOSM is telling you that it is probably a mistake, but not

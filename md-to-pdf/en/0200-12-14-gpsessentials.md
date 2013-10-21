@@ -82,9 +82,7 @@ Creating Waypoints
 
 3. Drag the cursor onto the location where you want the new waypoint.
 
-4. Tap on Actions to show the actions pane. The Actions icon looks like this:
-	
-   ![Actions][]
+4. Tap on Actions to show the actions pane. The Actions icon looks like this: ![Actions][]
 	
 5. Select the Add Tool to create the waypoint.
 	
@@ -121,9 +119,7 @@ Creating Waypoints
 	
    ![Waypointspage3][]
 
-5. Select Close icon to save your waypoint. The Close icon looks like this:
-	
-   ![Close][]
+5. Select Close icon to save your waypoint. The Close icon looks like this: ![Close][]
 
 Geotagging Photos
 -------------
@@ -163,9 +159,7 @@ For now, click KML (Google Earth).
 
    ![Export2][]
 
-5. Click this icon to Save.
-
-   ![Save Button][]
+5. Click this icon to Save: ![Save Button][]
 
 Exporting/Saving Tracks
 -------------
@@ -175,9 +169,7 @@ Exporting/Saving Tracks
 2. Select Export from the Options button to write the contents of the current track to a file.
 
 3. If you want to export the previous track you recorded, select Tracks icon and choose the desired track.
-   Click the Options button and select Export. The Tracks icon looks like this:
-
-   ![Footprints][]
+   Click the Options button and select Export. The Tracks icon looks like this:  ![Footprints][]
 
 4. The dropdown box will let you select what type of file you want your data to be exported.
    For now, click KML (Google Earth).
@@ -188,9 +180,7 @@ Exporting/Saving Tracks
 
    ![Export3][]
 
-6. Click this icon to Save.
-
-   ![Save Button][]
+6. Click this icon to Save: ![Save Button][]
 
 [GPSElogo]: /home/dianne/Development/git/learnosm/images/Logo.png
 [MapCache]: /home/dianne/Development/git/learnosm/images/mapcache.png
